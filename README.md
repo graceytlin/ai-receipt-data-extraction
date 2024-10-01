@@ -7,4 +7,4 @@ Also included is a novel dataset containing receipts collected over a period of 
 
 This project was written in python using Jupyter Notebook/Google Colab.
 
-Please see "Receipt Processor.pdf" and "dissertation.pdf" for research and further information.
+Please see ```Receipt Processor.pdf``` and ```dissertation.pdf``` for research and further information.
