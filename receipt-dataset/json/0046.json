@@ -1,0 +1,26 @@
+{
+  "id": "0046",
+  "date": "2022-03-26",
+  "storeName": "OXFAM",
+  "itemList": [
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 0.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 2.49
+    }
+  ],
+  "discountList": []
+}

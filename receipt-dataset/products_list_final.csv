@@ -1,0 +1,658 @@
+,store_name,item_name,category
+0,waitrose   partners,gress spatchcock,groceries
+1,tesco,pizza,groceries
+2,tesco,bacon rashers,groceries
+3,lidl,asparagus tips,groceries
+4,simply fresh,strawberry twists,snacks
+5,tesco,potato shapes,groceries
+6,tesco,cartridges,electrical
+7,lidl,marblebriochevanilla,groceries
+8,tesco,fresh milk,groceries
+9,tesco,sausages,groceries
+10,tesco,gateau bar,snacks
+11,tesco,medium free range eggs pack,groceries
+12,tesco,slices,groceries
+13,oxfam,popular fiction,entertainment
+14,tesco,spirali pasta <UNIT_SOLID>,groceries
+15,tesco,cheddar,groceries
+16,tesco,kitchen towels,cleaning & laundry
+17,tesco,prawns,groceries
+18,tesco,cafe latte,drinks
+19,tesco,potatoes,groceries
+20,sainsbury s,walkers max <UNIT_SOLID>,snacks
+21,tesco,pork sausage,groceries
+22,tesco,juice drink,drinks
+23,tesco,chicken,groceries
+24,lidl,grapefruit loose,groceries
+25,tesco,potatoes,groceries
+26,tesco,crisps,snacks
+27,sushi jun,seard salmon roll,eating out
+28,tesco,ginger cake,snacks
+29,t k maxx,mens jersey,clothes & accessories
+30,t4,<UNIT_LIQUID> royal tea,drinks
+31,tesco,fruit juice,drinks
+32,tesco,nuts,snacks
+33,lidl,garlic,groceries
+34,osprey london,ms chestnut malham coin wallet glazed calf colour chestnut,clothes & accessories
+35,tesco,cravendale filtered whole milk litre,groceries
+36,tesco,cereal,groceries
+37,lidl,lemon cake,snacks
+38,lidl,msc wild salmon,groceries
+39,tesco,bunting metre,homeware
+40,tesco,chocolate,snacks
+41,tesco,haddock,groceries
+42,tesco,lamb chops,groceries
+43,tesco,golden syrup,groceries
+44,tesco,sweets,snacks
+45,tesco,choc crepes,groceries
+46,t4,mango royal tea,drinks
+47,tesco,yakult drink,drinks
+48,tesco,chicken sauce,groceries
+49,tesco,mozzarella,groceries
+50,tesco,ice cream,snacks
+51,tesco,potatoes,groceries
+52,t k maxx,accessories lifestyle,clothes & accessories
+53,tesco,parsley,groceries
+54,tesco,frsh dbl crm,groceries
+55,aldi,lemons unwaxed,groceries
+56,tesco,grlc <UNIT_SOLID>,groceries
+57,www itsu com,<UNIT> egg,eating out
+58,tesco,yogurt,groceries
+59,t k maxx,mens essentials,clothes & accessories
+60,tesco,towels,personal hygiene
+61,sushi jun,bubble tea,drinks
+62,tesco,corn on the cob twinpack,groceries
+63,kenji,mima bunny plush keyring,clothes & accesories
+64,oxfam,popular fiction,entertainment
+65,lidl,lamb loin chops,groceries
+66,lidl,garlic,groceries
+67,tesco,bacon,groceries
+68,lidl,fr <UNIT> eggs,groceries
+69,tesco,chocolate,snacks
+70,tesco,pizza,groceries
+71,tesco,yogurt flake,groceries
+72,tesco,croissants,groceries
+73,oxfam,popular fiction,entertainment
+74,tesco,cake decor,groceries
+75,tesco,cooking sauce,groceries
+76,tesco,milkshake,drinks
+77,aldi,drk whte choc <UNIT_SOLID>,groceries
+78,tesco,pork snack,snacks
+79,greggs,chicken bake,eating out
+80,b m,dettol <UNIT_LIQUID> aio linen,cleaning & laundry
+81,waitrose   partners,bluebs,groceries
+82,tesco,platter,groceries
+83,simply fresh,ham cheese croissant,groceries
+84,tesco,gummy sweets,snacks
+85,tesco,crisps,snacks
+86,tesco,tortilla chips,snacks
+87,lidl,tomatoes,groceries
+88,tesco,pitch,groceries
+89,b m,simple soap <UNIT> <UNIT_SOLID>,personal hygiene
+90,sainsbury s,blt sw,groceries
+91,lidl,mango,groceries
+92,tesco,fresh chicken,groceries
+93,waitrose   partners,sea bream fillets,groceries
+94,tesco,berlinki,groceries
+95,tesco,jalfrezi sauce,groceries
+96,aldi stores,baps <UNIT>,groceries
+97,lidl,washed baby spinach,groceries
+98,tesco,toppings,snacks
+99,lidl,<UNIT> <UNIT> onions,groceries
+100,tesco,cumin seeds,groceries
+101,waitrose   partners,sirloin steak,groceries
+102,tesco,pizza,groceries
+103,tesco,ice cream,snacks
+104,tesco,cereal,groceries
+105,tesco,pork lean mince fat <UNIT_SOLID>,groceries
+106,tesco,unsalt butter,groceries
+107,tesco,conditioner,personal hygiene
+108,tesco,twin sweetcorn,groceries
+109,oxfam,popular fiction,entertainment
+110,tesco,chocolate,snacks
+111,tesco,kitchen towels,cleaning & laundry
+112,t4,white pe,drinks
+113,tesco,ice cream,snacks
+114,lidl,frijj cookie dough,drinks
+115,tesco,hand wash,personal hygiene
+116,greggs,sausage roll,eating out
+117,aldi stores,baps <UNIT>,groceries
+118,tesco,ginger nuts,snacks
+119,tesco,coconut,groceries
+120,tea terrace,optional gratuity,eating out
+121,waitrose   partners,ckittens eton mess,snacks
+122,tesco,brioche roll,groceries
+123,tesco,ice lollies,snacks
+124,tesco,bread,groceries
+125,tesco,spices herbs,groceries
+126,tesco,salad tomatoes,groceries
+127,tesco,lime jelly,snacks
+128,tesco,sausage slices,groceries
+129,aldi,tuna in brine <UNIT_SOLID>,groceries
+130,tesco,chinese leaf,groceries
+131,poundland,kodak zinc <UNIT>,electrical
+132,tesco,frozen pizza,groceries
+133,tesco,tuna,groceries
+134,tesco,dried yeast,groceries
+135,taco bell,ques box,eating out
+136,tesco,choc bunnies,snacks
+137,tesco,ice cream,snacks
+138,sainsbury s,pizza swirl,groceries
+139,lidl,green peach,drinks
+140,lidl,frosted flakes,groceries
+141,t4,jadeite royal tea,drinks
+142,tesco,walkers crisps,snacks
+143,tesco,vegetables for,groceries
+144,tesco,cadbury flake ice cream <UNIT_LIQUID>,snacks
+145,tesco,twin sweetcorn,groceries
+146,tesco,skincare,personal hygiene
+147,costa,chai latte regular,drinks
+148,tesco,mullcdrspice,groceries
+149,tesco,pork mince,groceries
+150,tesco,toppings,snacks
+151,lidl,paracetamol caplets,health & pharmacy
+152,t k maxx,mens best brands,clothes & accessories
+153,tesco,steel garlic,homeware
+154,tesco,prawns,groceries
+155,lidl,organic vine tomato,groceries
+156,tesco,cereal,groceries
+157,tesco,kabanos,groceries
+158,lidl,maple and pecanplait,groceries
+159,sushi jun,unagi cucumber roll,eating out
+160,whlung supermarket,lkk chinese marinade,groceries
+161,tesco,juice drink,drinks
+162,tesco,frozen pizza,groceries
+163,lidl,corn on the cob loos,groceries
+164,tesco,british chicken thigh fillets <UNIT_SOLID>,groceries
+165,tesco,creme caramel,snacks
+166,oxfam,popular fiction,entertainment
+167,tesco,ice cream,snacks
+168,vapouriz,nord pod kit by smok colour cobra,nicotine
+169,bodycare,strepsils honey lemon,health & pharmacy
+170,tesco,fresh milk,groceries
+171,tesco,iced coffee,drinks
+172,aldi stores,baps <UNIT>,groceries
+173,tesco,cup,homeware
+174,tesco,berlinki,groceries
+175,lidl,tomato passata,groceries
+176,waitrose   partners,tangerines,groceries
+177,tesco,ice lollies,snacks
+178,tesco,choc mini rolls,snacks
+179,whlung supermarket,fresh fuji apples case small,groceries
+180,oxfam,popular fiction,entertainment
+181,waitrose   partners,chick drmstks,groceries
+182,tesco,non scratch sponge pan cleaners pack,cleaning & laundry
+183,tesco,options drink,drinks
+184,oxfam,popular fiction,entertainment
+185,tesco,yogurt,groceries
+186,lidl,muffins triplechoc,snacks
+187,tesco,latte drink,drinks
+188,tesco,beef mince,groceries
+189,tesco,spaghetti,groceries
+190,tesco,hand wash,personal hygiene
+191,lidl,onions,groceries
+192,tesco,potato shapes,groceries
+193,aldi,drk whte choc <UNIT_SOLID>,groceries
+194,tesco,seasonal veg,groceries
+195,lidl,loose baking potat,groceries
+196,tesco,cheese,groceries
+197,tesco,pastry,groceries
+198,uniqlo,tapered trousers,clothes & accesories
+199,tesco,fish fingers,groceries
+200,lidl,valentina tomatoes,groceries
+201,waitrose   partners,salmn tail fillts,groceries
+202,tea terrace,smoked salmon salad,eating out
+203,tesco,sliced bloom,groceries
+204,tesco,conditioner,personal hygiene
+205,waitrose   partners,burgers for,groceries
+206,waitrose   partners,fruit for,groceries
+207,tesco,black pudding,groceries
+208,oxfam,popular fiction,entertainment
+209,uniqlo,rayon blouse,clothes & accesories
+210,tesco,brioche rolls,groceries
+211,tesco,frsh whpg crm,groceries
+212,tesco,soft drink,drinks
+213,lidl,sea salt mill,homeware
+214,tesco,lychee drink,drinks
+215,greggs,handled paper bag,homeware
+216,lidl,baking soda <UNIT_SOLID>,groceries
+217,tesco,salmon fillets,groceries
+218,tesco,simple kind to skin refreshing shower gel <UNIT_LIQUID>,personal hygiene
+219,aldi,wine red spanish,alcohol
+220,aldi,turkish delight,snacks
+221,waitrose   partners,for for,groceries
+222,tesco,ice cream,snacks
+223,lidl,custard creams biscu,snacks
+224,tesco,options drink,drinks
+225,aldi,tuna in brine <UNIT_SOLID>,groceries
+226,tesco,smirnoff ice,alcohol
+227,tesco,nutella,groceries
+228,simply fresh,dfe cktail furter pm,groceries
+229,aldi,thyme cut,groceries
+230,tesco,honey,groceries
+231,aldi,salt table <UNIT_SOLID>,groceries
+232,evapo,nasty juice ns cushman mg,nicotine
+233,tesco,ice cream,snacks
+234,tesco,actimel <UNIT>,drinks
+235,tesco,sesame bagels,groceries
+236,tesco,pork sausages,groceries
+237,tesco,coffee beans,groceries
+238,tesco,walnuts,groceries
+239,tesco,<UNIT_SOLID> dan wht,groceries
+240,oxfam,popular fiction,entertainment
+241,aldi,snack mix tray,snacks
+242,simply fresh,strawberry twists,snacks
+243,tesco,crisps,snacks
+244,tesco,butternut soup,groceries
+245,tesco,lemonade,drinks
+246,tesco,cafe latte,drinks
+247,tesco,deli sharing for,groceries
+248,tesco,refuse sacks,cleaning & laundry
+249,tesco,cetaphil gentle skin cleanser <UNIT_LIQUID>,personal hygiene
+250,tesco,ice cream,snacks
+251,tesco,milkshake,drinks
+252,www itsu com,detox miso noodle soup,eating out
+253,tesco,yakult drink,drinks
+254,tesco,seasonal veg,groceries
+255,tesco,cafe latte,drinks
+256,tesco,cake decor,groceries
+257,tesco,zipseal bags,homeware
+258,tesco,greek yogurt,groceries
+259,tesco,ice cream,snacks
+260,sainsbury s,haribo tangfastics,snacks
+261,oxfam,popular fiction,entertainment
+262,waitrose   partners,mpf for,groceries
+263,tesco,nuts,snacks
+264,taco bell,guacamole sgl shot,eating out
+265,tesco,salad tomatoes pack,groceries
+266,lidl,bananas pack,groceries
+267,lidl,green tea blueberry,drinks
+268,tesco,coffee beans,drinks
+269,tesco,mini eggs bar,snacks
+270,tesco,chicken,groceries
+271,tesco,ripe avo <UNIT>,groceries
+272,tesco,choc mini rolls,snacks
+273,aldi stores,mushroom clsedcup,groceries
+274,sainsbury s,js dble chc cookies,snacks
+275,tesco,olive oil,groceries
+276,tesco,fresh milk,groceries
+277,tesco,berlinki,groceries
+278,waitrose   partners,mpfe for,groceries
+279,tesco,twin sweetcorn,groceries
+280,aldi,peanuts salted,snacks
+281,aldi,potato mini roast,groceries
+282,lidl,green tee honey,drinks
+283,waitrose   partners,easy peelers,groceries
+284,tesco,grlc <UNIT_SOLID>,groceries
+285,tesco,cafe latte,drinks
+286,tesco,multipack crsp,snacks
+287,sushi jun,vegetable gyoza,eating out
+288,tesco,towels,personal hygiene
+289,tesco,cafe latte,drinks
+290,tesco,smoked streaky,groceries
+291,tesco,cheese slice,groceries
+292,tesco,ripe bananas,groceries
+293,waitrose   partners,salmn tail fillts,groceries
+294,waitrose   partners,rump burgers,groceries
+295,tesco,chilli cheese,groceries
+296,tesco,slices,groceries
+297,lidl,green tea pomegranat,drinks
+298,tesco,yoghuts,snacks
+299,tesco,cheese,groceries
+300,tesco,latte drink,drinks
+301,tesco,soft cheese,groceries
+302,tesco,red leicester,groceries
+303,lidl,premium oranges,groceries
+304,sainsbury s,meal deal,groceries
+305,uniqlo,rayon blouse,clothes & accesories
+306,lidl,mentos chupa babol,snacks
+307,aldi stores,spring onions,groceries
+308,tesco,unsalt butter,groceries
+309,tesco,berlinki,groceries
+310,aldi,drk whte choc <UNIT_SOLID>,groceries
+311,lidl,green tea honey,drinks
+312,tesco,range eggs,groceries
+313,tesco,meal deal,eating out
+314,tesco,aubergine,groceries
+315,waitrose   partners,chick jamb soup,groceries
+316,lidl,budweiser,alcohol
+317,tesco,chocolate,snacks
+318,blue bear bookshop,descendant of the crane,entertainment
+319,tesco,chicken thighs,groceries
+320,tesco,toothbrush,personal hygiene
+321,tesco,okra,groceries
+322,tesco,comfort creation limited edition fabric conditioner wash <UNIT_LIQUID>,cleaning & laundry
+323,co op,cp mayonnaise,groceries
+324,tesco,ckn nuggets,groceries
+325,tesco,orange jelly,snacks
+326,lidl,garlic,groceries
+327,tesco,hot chilli,groceries
+328,tesco,potatoes,groceries
+329,tesco,ginger cake,snacks
+330,tesco,raw king prawns <UNIT_SOLID>,groceries
+331,lidl,beef brisket joint,groceries
+332,tesco,honey,groceries
+333,simply fresh,new regular latte,drinks
+334,tesco,hand wash,personal hygiene
+335,lidl,bbq sauce,groceries
+336,uber eats,gyoza dipping pot,eating out
+337,oxfam,popular fiction,entertainment
+338,tesco,onions <UNIT_SOLID>,groceries
+339,aldi,ferrero,snacks
+340,tesco,actimel <UNIT>,drinks
+341,lidl,mini cucumbers,groceries
+342,waitrose   partners,rump burgers,groceries
+343,lidl,arizona iced tea,drinks
+344,lidl,white toastie,groceries
+345,aldi,maoam mixx,snacks
+346,tesco,peas,groceries
+347,tesco,walkers crisps,snacks
+348,tesco,berry jelly,snacks
+349,aldi,snack mix tray,snacks
+350,lidl,tenderstem broccoli,groceries
+351,kenji,taku glass mug mushroom,homeware
+352,tesco,pepsi cola,drinks
+353,tesco,ny bagels,groceries
+354,aldi,maoam mixx,snacks
+355,lidl,tuna in brine,groceries
+356,tesco,berlinki,groceries
+357,tesco,english butter,groceries
+358,tesco,haddock,groceries
+359,tesco,gummy sweets,snacks
+360,lidl,beef brisket joint,groceries
+361,lidl,medium loaf white,groceries
+362,lidl,mackeral sunflower,groceries
+363,poundland,sellotape mx mm,other
+364,tesco,chocolate,snacks
+365,tesco,kellogg crunchy nut chcolate clusters <UNIT_SOLID>,groceries
+366,tesco,body wash,personal hygiene
+367,tesco,garlic granu,groceries
+368,tesco,lamb chops,groceries
+369,whlung supermarket,fyn ringent chestnut <UNIT_SOLID>,snacks
+370,lidl,marvellous tomatoes,groceries
+371,tesco,fresh milk,groceries
+372,oxfam,popular fiction,entertainment
+373,tesco,kellogg crunchy nut chocolate clusters <UNIT_SOLID>,groceries
+374,sushi jun,california roll,eating out
+375,lidl,chi breastfille <UNIT_SOLID>,groceries
+376,tesco,frozen pizza,groceries
+377,lidl,vegetable oil,groceries
+378,tesco,scratchings,snacks
+379,tesco,ckn drumsticks,groceries
+380,tesco,chicken thighs,groceries
+381,sainsbury s,ww fruits biscuit sh,snacks
+382,t4,pearl,drinks
+383,lidl,frylight coconut oil,groceries
+384,tesco,eggs,groceries
+385,tesco,caddy liners,cleaning & laundry
+386,lidl,chocol chip cookies,snacks
+387,uber eats,salmon full house,eating out
+388,lidl,dc nas app curran,drinks
+389,lidl,smoked salmon,groceries
+390,simply fresh,new regular chai latte,drinks
+391,currys pc world,sony wf <UNIT_SOLID> rn,electrical
+392,www itsu com,salmon baby rolls,eating out
+393,tesco,chicken,groceries
+394,t a shake shack,choc queen <UNIT>,eating out
+395,tesco,conti meat,groceries
+396,tesco,lychee drink,drinks
+397,t4,fried chicken popcorns,eating out
+398,lidl,columbian coffee,drinks
+399,sainsbury s,pain aux raisins,groceries
+400,b m,pears soap <UNIT_SOLID> <UNIT>,personal hygiene
+401,uber eats,chicken spring onion gyoza,eating out
+402,simply fresh,dfe cktail furter pm,groceries
+403,tesco,berlinki,groceries
+404,tesco,eclairs,snacks
+405,waitrose   partners,rump steak,groceries
+406,lidl,british unsal butter,groceries
+407,tesco,chicken wich,eating out
+408,lidl,whole goose,groceries
+409,tesco,red pepper,groceries
+410,tesco,chocolate,snacks
+411,tesco,frozen pizza,groceries
+412,tesco,cafe latte,drinks
+413,tesco,brioche,groceries
+414,tesco,chocolate,snacks
+415,tesco,cake,snacks
+416,simply fresh,regular tea smokin bean,drinks
+417,tesco,chocolate cake,snacks
+418,tesco,fruit gums,snacks
+419,tesco,burger buns,groceries
+420,tesco,waffles,snacks
+421,tesco,grlc <UNIT_SOLID>,groceries
+422,tesco,cafe latte,drinks
+423,tesco,feast chocolate ice cream <UNIT_LIQUID>,snacks
+424,tesco,ckn drumsticks,groceries
+425,lidl,clear honey,groceries
+426,lidl,organic carrots,groceries
+427,oxfam,popular fiction,entertainment
+428,lidl,frijj cookie dough,drinks
+429,tesco,choc biscuit,snacks
+430,sainsbury s,cheese twist,groceries
+431,sushi jun,service charge,eating out
+432,tesco,cheddar for,groceries
+433,lidl,sweet shop favourite,snacks
+434,whlung supermarket,fruit,groceries
+435,tesco,red pepper,groceries
+436,b m,soreen <UNIT_LIQUID> box <UNIT> choc,snacks
+437,tesco,pizza,groceries
+438,tesco,actimel <UNIT>,drinks
+439,lidl,cucumber,groceries
+440,tesco,mince beef,groceries
+441,tesco,trainer liners,clothes & accessories
+442,tesco,golden syrup,groceries
+443,waitrose   partners,hot cross bun,groceries
+444,waitrose   partners,wakame salad,groceries
+445,tesco,choc eclairs,snacks
+446,lidl,deluxe blueberries,groceries
+447,tesco,chocolate,snacks
+448,aldi,tuna in brine <UNIT_SOLID>,groceries
+449,whlung supermarket,rg malaysian sponge cake <UNIT_SOLID>,snacks
+450,lidl,echalion shallots,groceries
+451,lidl,rainbow tomatoes,groceries
+452,tesco,cashew nuts,groceries
+453,tesco,crisps,snacks
+454,waitrose   partners,tangerines,groceries
+455,waitrose   partners,beef burgers,groceries
+456,tesco,fairy original washing up liquid <UNIT_LIQUID>,cleaning & laundry
+457,t k maxx,accessories lifestyle,clothes & accessories
+458,lidl,medallion steak <UNIT_SOLID>,groceries
+459,tesco,smoked streaky,groceries
+460,tesco,eggs,groceries
+461,aldi,potatoes mini roast,groceries
+462,tesco,fish fingers,groceries
+463,tesco,smoked salmon,groceries
+464,lidl,alexandra potatoes,groceries
+465,tesco,towels,personal hygiene
+466,tesco,brown sugar,groceries
+467,tesco,fruit juice,drinks
+468,lidl,peperami jerky,snacks
+469,lidl,british pork sausage,groceries
+470,waitrose   partners,belgn bttr wffles,groceries
+471,evapo,coil multi buy for,nicotine
+472,oxfam,poetry plays,entertainment
+473,tesco,mini eggs,snacks
+474,tesco,red leicester,groceries
+475,lidl,pak choi <UNIT>,groceries
+476,aldi,xmas puffs balls,snacks
+477,tesco,lurpak butter,groceries
+478,tesco,ripe bananas,groceries
+479,tesco,butternut soup,groceries
+480,aldi,stackers sc bbq,snacks
+481,waitrose   partners,thigh fillets,groceries
+482,tesco,range eggs,groceries
+483,tesco,cafe latte,drinks
+484,tesco,eggs,groceries
+485,t k maxx,tk medium carrier,other
+486,tesco,flash kitchen degreaser spray <UNIT_LIQUID>,cleaning & laundry
+487,tesco,kipling,snacks
+488,tesco,clementine,groceries
+489,tesco,fresh milk,groceries
+490,lidl,medium avocado,groceries
+491,evapo,smok rpm coil,nicotine
+492,tesco,bake bag,homeware
+493,tesco,sprkling wat,drinks
+494,tesco,beef mince reduced price,groceries
+495,tesco,hand wash,personal hygiene
+496,tesco,lamb chops,groceries
+497,tesco,pasta,groceries
+498,uniqlo,rayon blouse,clothes & accesories
+499,lidl,sweet mixed peppers,groceries
+500,tesco,black pudding,groceries
+501,tesco,beef mince reduced price,groceries
+502,tesco,range eggs,groceries
+503,tesco,cooked ham,groceries
+504,tesco,king prawns,groceries
+505,sainsbury s,leek cheddar onio,groceries
+506,tesco,cereal,groceries
+507,tesco,happy hippo,snacks
+508,tesco,biscuits,snacks
+509,sainsbury s,danish maple pecan,groceries
+510,tesco,bubba tape,snacks
+511,waitrose   partners,twix twin bar,snacks
+512,waitrose   partners,wakame salad,eating out
+513,uber eats,mango cheesecake mochi,eating out
+514,tesco,caffe latte,drinks
+515,tesco,little gem twin,groceries
+516,tesco,cafe latte,drinks
+517,tesco,sugar,groceries
+518,tesco,pork sausage,groceries
+519,tesco,chicken drums,groceries
+520,costa,latte regular,drinks
+521,tesco,towels,personal hygiene
+522,tesco,fairy non biological washing gel washes <UNIT_LIQUID>,cleaning & laundry
+523,tesco,smirnoff ice,alcohol
+524,tesco,fruit juice,drinks
+525,oxfam,popular fiction,entertainment
+526,t a shake shack,bites,eating out
+527,tesco,range eggs,groceries
+528,tesco,cereal,groceries
+529,tesco,food pine nu,groceries
+530,tesco,smoked streaky,groceries
+531,tesco,pasta,groceries
+532,tesco,ice cream,snacks
+533,tesco,mirin,groceries
+534,tesco,cereal,groceries
+535,tesco,jalfrezi sauce,snacks
+536,tesco,cafe latte,drinks
+537,sainsbury s,ww berry white choc,snacks
+538,tesco,ice cream,snacks
+539,tesco,cartridges,electrical
+540,waitrose   partners,beef frying steak,groceries
+541,tesco,chicken thighs,groceries
+542,lidl,danone actimel straw,drinks
+543,oxfam,popular fiction,entertainment
+544,aldi stores,baps <UNIT>,groceries
+545,oxfam,popular fiction,entertainment
+546,uniqlo,tapered trousers,clothes & accesories
+547,tesco,ckn nuggets,groceries
+548,lidl,green tee pomegrana,drinks
+549,tesco,conditioner,personal hygiene
+550,waitrose   partners,mpf for,groceries
+551,whlung supermarket,ww shelly senbei rice crackers <UNIT_SOLID>,snacks
+552,sainsbury s,maltesers <UNIT_SOLID>,snacks
+553,tesco,chicken thighs,groceries
+554,lidl,spring onions,groceries
+555,tesco,latte drink,drinks
+556,lidl,green tea plum,drinks
+557,tesco,grlc <UNIT_SOLID>,groceries
+558,tesco,pork slices,groceries
+559,aldi,tuna in brine <UNIT_SOLID>,groceries
+560,tesco,wholemeal,groceries
+561,t a shake shack,meistershack,eating out
+562,tesco,lychee drink,drinks
+563,tesco,ben jerry baked alaska vanilla ice cream <UNIT_LIQUID>,snacks
+564,tesco,nutella,groceries
+565,tesco,pain au raisin,groceries
+566,vapouriz,price match,nicotine
+567,tesco,bacon rashers,groceries
+568,lidl,smoked bacon,groceries
+569,tesco,soft cheese,groceries
+570,tesco,mini eggs bar,snacks
+571,tesco,ice cream,snacks
+572,uber eats,veggie dragon roll,eating out
+573,lidl,fresh corn,groceries
+574,sainsbury s,strbks caff lat <UNIT_LIQUID>,drinks
+575,tesco,bread,groceries
+576,tesco,avocado each,groceries
+577,whlung supermarket,eulong coconut shred cookies <UNIT_SOLID>,snacks
+578,tesco,black pudding,groceries
+579,tesco,kitkat chunky,snacks
+580,waitrose   partners,easy peelers,groceries
+581,tesco,latte drink,drinks
+582,poundland,magnetic car phone holder,other
+583,b m,small magic mat plain,homeware
+584,tesco,ckn nuggets,groceries
+585,oxfam,popular fiction,entertainment
+586,tesco,coffee beans,drinks
+587,tesco,ice cream,snacks
+588,kenji,yabu monster grey,other
+589,tesco,roast chicken,groceries
+590,tesco,seasonal veg,groceries
+591,lidl,discount,groceries
+592,tesco,spring onions,groceries
+593,aldi,satsumas king,groceries
+594,tesco,ice cream,snacks
+595,lidl,men hydra ener scrub,personal hygiene
+596,tesco,sweets,snacks
+597,tesco,prawns,groceries
+598,tesco,chocolate,snacks
+599,sainsbury s,monster pipeline,drinks
+600,tesco,british chicken thigh fillets <UNIT_SOLID>,groceries
+601,lidl,kinder joy,snacks
+602,tesco,gum,snacks
+603,tesco,tortilla chips,snacks
+604,t k maxx,tk medium carrier,other
+605,tesco,cake,snacks
+606,sainsbury s,strbks caff lat <UNIT_LIQUID>,drinks
+607,tesco,lychee drink,drinks
+608,sainsbury s,chocolate twist,groceries
+609,lidl,bells ibuprofen,health & pharmacy
+610,lidl,green tee peach,drinks
+611,tesco,spinach,groceries
+612,tesco,ginger nuts,snacks
+613,poundland,occasion roll wrap,other
+614,b m,miracle gro <UNIT_LIQUID>,gardening
+615,tesco,chocolate cake,snacks
+616,tesco,peanut butter,groceries
+617,tesco,ice cream,snacks
+618,tesco,crisps,snacks
+619,oxfam,reference,entertainment
+620,tesco,chocolate,snacks
+621,tesco,gem lettuce,groceries
+622,tesco,kipling,snacks
+623,waitrose   partners,msc keta salmon,groceries
+624,tesco,lamb chops,groceries
+625,www itsu com,chicken low,eating out
+626,tesco,berlinki,groceries
+627,tesco,salmon fillets,groceries
+628,tesco,km white med,groceries
+629,oxfam,popular fiction,entertainment
+630,tesco,pork slices,groceries
+631,tesco,pork slices,groceries
+632,waitrose   partners,chicken wings,groceries
+633,tea terrace,cream tea for,eating out
+634,tesco,bbq sauce,groceries
+635,tesco,streaky bacon,groceries
+636,lidl,chicken thigh fillet,groceries
+637,aldi,rosemary cut,groceries
+638,waitrose   partners,chicken wings,groceries
+639,waitrose   partners,salmn tail fillts,groceries
+640,tesco,bake bag,homeware
+641,tesco,latte drink,drinks
+642,tesco,range eggs,groceries
+643,tesco,ckn nuggets,groceries
+644,aldi,honey jar <UNIT_SOLID>,groceries
+645,whlung supermarket,fyn huai rou chestnut <UNIT_SOLID>,snacks
+646,waitrose   partners,tangerines,groceries
+647,lidl,pomegranate,groceries
+648,aldi,wine red spanish,alcohol
+649,tesco,rocket chillies <UNIT_SOLID>,groceries
+650,tesco,mini eggs bar,snacks
+651,lidl,soft medium white,groceries
+652,tesco,range eggs,groceries
+653,house of fraser,nicce expo jkt sn,clothes & accessories
+654,tesco,ginger cake,snacks
+655,tesco,bread,groceries
+656,boots uk limited,smp kd ab clns wsh,personal hygiene

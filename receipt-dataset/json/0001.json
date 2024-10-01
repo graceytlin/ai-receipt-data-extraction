@@ -1,0 +1,21 @@
+{
+  "id": "0001",
+  "date": "2022-02-18",
+  "storeName": "Vapouriz",
+  "itemList": [
+    {
+      "itemName": "NORD 2 POD KIT BY SMOK / 7 COLOUR COBRA",
+      "quantity": 1,
+      "category": "nicotine",
+      "price": 29.99
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "PRICE MATCH",
+      "quantity": 1,
+      "category": "nicotine",
+      "price": -7.00
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "0017",
+  "date": "2021-12-04",
+  "storeName": "LiDL",
+  "itemList": [
+    {
+      "itemName": "Sea Salt Mill",
+      "quantity": 1,
+      "category": "homeware",
+      "price": 0.85
+    },
+    {
+      "itemName": "Sweet Shop Favourite",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 3.99
+    },
+    {
+      "itemName": "Premium Oranges",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.99
+    },
+    {
+      "itemName": "Men Hydra Ener Scrub",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 2.49
+    },
+    {
+      "itemName": "Baking Soda 170g",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.59
+    },
+    {
+      "itemName": "Bananas 5 Pack",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "Kinder Joy",
+      "quantity": 2,
+      "category": "snacks",
+      "price": 1.70
+    },
+    {
+      "itemName": "British Unsal Butter",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.48
+    },
+    {
+      "itemName": "Frosted Flakes",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.79
+    },
+    {
+      "itemName": "Whole Goose",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 19.99
+    }
+  ],
+  "discountList": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "0043",
+  "date": "2022-03-21",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "Kellogg's Crunchy Nut Chcolate Clusters 450g",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 5.00
+    },
+    {
+      "itemName": "Cravendale Filtered Whole Milk 2 Litre",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 3.90
+    },
+    {
+      "itemName": "Cadbury Flake Ice Cream 480ml",
+      "quantity": 3,
+      "category": "snacks",
+      "price": 9.00
+    },
+    {
+      "itemName": "Flash Kitchen Degreaser Spray 750ml",
+      "quantity": 1,
+      "category": "cleaning & laundry",
+      "price": 1.50
+    },
+    {
+      "itemName": "Comfort Creation Limited Edition Fabric Conditioner 33 Wash 1.16l",
+      "quantity": 1,
+      "category": "cleaning & laundry",
+      "price": 1.95
+    },
+    {
+      "itemName": "Fairy Non Biological Washing Gel 35 Washes 1295ml",
+      "quantity": 1,
+      "category": "cleaning & laundry",
+      "price": 6.00
+    },
+    {
+      "itemName": "Tesco British Chicken Thigh Fillets 600g",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.75
+    },
+    {
+      "itemName": "Tesco Non-scratch Sponge Pan Cleaners 6 Pack",
+      "quantity": 2,
+      "category": "cleaning & laundry",
+      "price": 2.10
+    },
+    {
+      "itemName": "Tesco Medium Free Range Eggs 12 Pack",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.75
+    }
+  ],
+  "discountList": []
+}

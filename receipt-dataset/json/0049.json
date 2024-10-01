@@ -1,0 +1,26 @@
+{
+  "id": "0049",
+  "date": "2022-03-19",
+  "storeName": "KENJI",
+  "itemList": [
+    {
+      "itemName": "Mima Bunny Plush Keyring",
+      "quantity": 1,
+      "category": "clothes & accesories",
+      "price": 4.50
+    },
+    {
+      "itemName": "Taku Glass Mug - Mushroom",
+      "quantity": 1,
+      "category": "homeware",
+      "price": 5.00
+    },
+    {
+      "itemName": "Yabu Monster - Grey",
+      "quantity": 1,
+      "category": "other",
+      "price": 12.00
+    }
+  ],
+  "discountList": []
+}

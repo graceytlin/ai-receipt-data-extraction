@@ -1,0 +1,333 @@
+{
+  "id": "0008",
+  "date": "2022-02-23",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "ICED COFFEE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CKN DRUMSTICKS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.75
+    },
+    {
+      "itemName": "TRAINER LINERS",
+      "quantity": 1,
+      "category": "clothes & accessories",
+      "price": 5.00
+    },
+    {
+      "itemName": "PORK SNACK",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.60
+    },
+    {
+      "itemName": "CRISPS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.99
+    },
+    {
+      "itemName": "ICE LOLLIES",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.00
+    },
+    {
+      "itemName": "PEAS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.75
+    },
+    {
+      "itemName": "MINI EGGS BAR",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CHOCOLATE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "SCRATCHINGS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.85
+    },
+    {
+      "itemName": "PRAWNS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.94
+    },
+    {
+      "itemName": "ACTIMEL 12PK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.75
+    },
+    {
+      "itemName": "FRESH MILK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.35
+    },
+    {
+      "itemName": "GINGER CAKE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.35
+    },
+    {
+      "itemName": "ICE CREAM",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 4.50
+    },
+    {
+      "itemName": "ICE CREAM",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 4.50
+    },
+    {
+      "itemName": "BREAD",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.59
+    },
+    {
+      "itemName": "EGGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.18
+    },
+    {
+      "itemName": "PIZZA",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 5.00
+    },
+    {
+      "itemName": "TESCO GRLC500G",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 5
+    },
+    {
+      "itemName": "CRISPS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.00
+    },
+    {
+      "itemName": "CONDITIONER",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 4.00
+    },
+    {
+      "itemName": "CKN NUGGETS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "CKN NUGGETS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "LIME JELLY",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.65
+    },
+    {
+      "itemName": "S/BERRY JELLY",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.65
+    },
+    {
+      "itemName": "ORANGE JELLY",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.65
+    },
+    {
+      "itemName": "TUNA",
+      "quantity": 4,
+      "category": "groceries",
+      "price": 2.36
+    },
+    {
+      "itemName": "NY BAGELS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.60
+    },
+    {
+      "itemName": "COFFEE BEANS",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.70
+    },
+    {
+      "itemName": "SMOKED STREAKY",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "BACON",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.25
+    },
+    {
+      "itemName": "MINI EGGS BAR",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "BERLINKI",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.30
+    },
+    {
+      "itemName": "TOPPINGS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.35
+    },
+    {
+      "itemName": "PIZZA",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 5.00
+    },
+    {
+      "itemName": "BLACK PUDDING",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "FRESH MILK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.60
+    },
+    {
+      "itemName": "BODY WASH",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 2.00
+    },
+    {
+      "itemName": "CAKE DECOR",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.30
+    },
+    {
+      "itemName": "SAUSAGES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.70
+    },
+    {
+      "itemName": "BEEF MINCE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.60
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "CC Pizza",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -2.50
+    },
+    {
+      "itemName": "CC Pizza",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -2.50
+    },
+    {
+      "itemName": "CC Cake decor",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.80
+    },
+    {
+      "itemName": "CC Conditioner",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": -0.50
+    },
+    {
+      "itemName": "CC Toppings",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Ice cream",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -1.50
+    },
+    {
+      "itemName": "CC Ice cream",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -1.50
+    },
+    {
+      "itemName": "CC Ice lollies",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -0.25
+    },
+    {
+      "itemName": "CC Ginger cake",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -0.66
+    },
+    {
+      "itemName": "CC Coffee beans",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -1.20
+    },
+    {
+      "itemName": "CC Crisps",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Actimel 12pk",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -1.25
+    }
+  ]
+}

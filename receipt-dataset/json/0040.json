@@ -1,0 +1,105 @@
+{
+  "id": "0040",
+  "date": "2022-03-26",
+  "storeName": "OXFAM",
+  "itemList": [
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 2.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    }
+    ,
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 2.49
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 2.49
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 2.49
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 2.99
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 2.49
+    },
+    {
+      "itemName": "C1A - POPULAR FICTION",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 1.99
+    },
+    {
+      "itemName": "C14A - REFERENCE",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 2.99
+    }
+  ],
+  "discountList": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "0012",
+  "date": "01/01/1999",
+  "storeName": "asda",
+  "itemList": [
+    {
+      "itemName": "white bread slced",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.20
+    },
+    {
+      "itemName": "coffe grnls",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 2.87
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "whte brd slced",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.50
+    }
+  ]
+}
+
+
+

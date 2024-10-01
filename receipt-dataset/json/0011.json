@@ -1,0 +1,62 @@
+{
+  "id": "0011",
+  "date": "2021-10-16",
+  "storeName": "LiDL",
+  "itemList": [
+    {
+      "itemName": "Corn on the cob Loos",
+      "quantity": 3,
+      "category": "groceries",
+      "price": 1.05
+    },
+    {
+      "itemName": "Marvellous Tomatoes",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.89
+    },
+    {
+      "itemName": "Rainbow Tomatoes",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.89
+    },
+    {
+      "itemName": "Extra Large Onions",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.29
+    },
+    {
+      "itemName": "Asparagus Tips",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 2.58
+    },
+    {
+      "itemName": "Soft Medium White",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.47
+    },
+    {
+      "itemName": "Deluxe Blueberries",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.49
+    },
+    {
+      "itemName": "Mini Cucumbers",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 1.09
+    },
+    {
+      "itemName": "Garlic",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.39
+    }
+  ],
+  "discountList": []
+}

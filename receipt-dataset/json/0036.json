@@ -1,0 +1,27 @@
+{
+  "id": "0036",
+  "date": "2022-03-19",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "Cetaphil Gentle Skin Cleanser 236ml",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 8.50
+    },
+    {
+      "itemName": "Simple Kind To Skin Refreshing Shower Gel 500ml",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 1.49
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "Cc Skincare",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": -2.83
+    }
+  ]
+}

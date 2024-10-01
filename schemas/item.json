@@ -1,0 +1,32 @@
+{
+  "$id": "/schemas/item",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Item",
+  "type": "object",
+  "properties": {
+    "itemName": {
+      "type": "string",
+      "description": "The item name."
+    },
+    "quantity": {
+      "type": "integer",
+      "description": "Number of item bought",
+      "minimum": 0
+    },
+    "category": {
+      "description": "Purchase category",
+      "type": "string",
+      "enum": ["groceries", "drinks", "snacks", "eating out", "pet food", "alcohol", "personal hygiene", "cleaning & laundry", "electrical", "homeware", "pets", "clothes & accessories", "health & pharmacy", "entertainment", "other"]
+    },
+    "price": {
+      "type": "number",
+      "description": "Price of one item",
+      "minimum": 0
+    },
+    "total": {
+      "type": "number",
+      "description": "Total spent purchasing item",
+      "minimum": 0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0025",
+  "date": "2022-03-18",
+  "storeName": "t/a shake shack",
+  "itemList": [
+    {
+      "itemName": "MeisterShack",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 6.95
+    },
+    {
+      "itemName": "10 BITES",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 6.75
+    },
+    {
+      "itemName": "Choc Queen SNG",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 5.00
+    }
+  ],
+  "discountList": []
+}

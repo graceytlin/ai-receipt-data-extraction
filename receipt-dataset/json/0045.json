@@ -1,0 +1,20 @@
+{
+  "id": "0045",
+  "date": "2022-04-07",
+  "storeName": "Simply Fresh",
+  "itemList": [
+    {
+      "itemName": "DFE CKTAIL F/FURTER PM1",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "REGULAR TEA SMOKIN BEAN",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    }
+  ],
+  "discountList": []
+}

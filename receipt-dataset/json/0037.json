@@ -1,0 +1,27 @@
+{
+  "id": "0037",
+  "date": "2022-04-10",
+  "storeName": "Simply Fresh",
+  "itemList": [
+    {
+      "itemName": "STRAWBERRY TWISTS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "HAM & CHEESE CROISSANT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.20
+    },
+    {
+      "itemName": "DFE CKTAIL F/FURTER PM1",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    }
+  ],
+  "discountList": [
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0034",
+  "date": "2022-03-04",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "SWEETS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "GUMMY SWEETS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.89
+    },
+    {
+      "itemName": "MINI EGGS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 4.00
+    },
+    {
+      "itemName": "PORK SAUSAGE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.25
+    },
+    {
+      "itemName": "CEREAL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.00
+    },
+    {
+      "itemName": "H.BUBBA TAPE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.90
+    }
+  ],
+  "discountList": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "0012",
+  "date": "2022-02-01",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "Kellogg's Crunchy Nut Chocolate Clusters 450g",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.00
+    },
+    {
+      "itemName": "Fairy Original Washing Up Liquid 1150ml",
+      "quantity": 1,
+      "category": "cleaning & laundry",
+      "price": 2.00
+    },
+    {
+      "itemName": "Feast Chocolate Ice Cream 4 x 90ml",
+      "quantity": 2,
+      "category": "snacks",
+      "price": 5.00
+    },
+    {
+      "itemName": "Tesco Raw King Prawns 165g",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.00
+    },
+    {
+      "itemName": "Tesco British Chicken Thigh Fillets 1kg",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 5.10
+    },
+    {
+      "itemName": "Tesco Pork Lean Mince 5% Fat 500g",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "Tesco Salad Tomatoes 6 Pack",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.75
+    },
+    {
+      "itemName": "Ben & Jerry's Baked Alaska Vanilla Ice Cream 465ml",
+      "quantity": 3,
+      "category": "snacks",
+      "price": 13.50
+    },
+    {
+      "itemName": "Tesco Corn On The Cob Twinpack",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.95
+    },
+    {
+      "itemName": "Tesco Spirali Pasta 500g",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 1.40
+    },
+    {
+      "itemName": "Tesco Rocket Chillies 250g",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.75
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "Cc Ice Cream",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -4.50
+    }
+  ]
+}

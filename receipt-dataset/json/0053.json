@@ -1,0 +1,14 @@
+{
+  "id": "0053",
+  "date": "2022-03-26",
+  "storeName": "Blue Bear Bookshop",
+  "itemList": [
+    {
+      "itemName": "DESCENDANT OF THE CRANE",
+      "quantity": 1,
+      "category": "entertainment",
+      "price": 8.99
+    }
+  ],
+  "discountList": []
+}

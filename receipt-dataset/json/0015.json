@@ -1,0 +1,123 @@
+{
+  "id": "0015",
+  "date": "2021-12-01",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "TESCO GRLC500G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "YOGURT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.45
+    },
+    {
+      "itemName": "TESCO GRLC500G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "CHICKEN DRUMS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.50
+    },
+    {
+      "itemName": "F/RANGE EGGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.10
+    },
+    {
+      "itemName": "MULLCDRSPICE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.45
+    },
+    {
+      "itemName": "DRIED YEAST",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "POTATOES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.40
+    },
+    {
+      "itemName": "PORK SLICES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.11
+    },
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "W 400G DAN WHT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.95
+    },
+    {
+      "itemName": "BREAD",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.59
+    },
+    {
+      "itemName": "LAMB CHOPS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.25
+    },
+    {
+      "itemName": "LAMB CHOPS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.25
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "CC Lamb chops",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.75
+    },
+    {
+      "itemName": "CC Lamb chops",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.75
+    }
+  ]
+}

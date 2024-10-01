@@ -1,0 +1,104 @@
+{
+  "id": "0032",
+  "date": "2022-03-16",
+  "storeName": "LiDL",
+  "itemList": [
+    {
+      "itemName": "Budweiser 4.5%",
+      "quantity": 1,
+      "category": "alcohol",
+      "price": 9.99
+    },
+    {
+      "itemName": "Medium Loaf White",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.36
+    },
+    {
+      "itemName": "Grapefruit Loose",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.45
+    },
+    {
+      "itemName": "Chocol Chip Cookies",
+      "quantity": 2,
+      "category": "snacks",
+      "price": 0.82
+    },
+    {
+      "itemName": "Mackeral Sunflower",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 1.22
+    },
+    {
+      "itemName": "Lemon Cake",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.22
+    },
+    {
+      "itemName": "Vegetable Oil",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.09
+    },
+    {
+      "itemName": "Tuna in Brine",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.25
+    },
+    {
+      "itemName": "Frijj Cookie Dough",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.75
+    },
+    {
+      "itemName": "Smoked Bacon",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.35
+    },
+    {
+      "itemName": "DC NAS App B Curran",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.89
+    },
+    {
+      "itemName": "BBQ Sauce",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.79
+    },
+    {
+      "itemName": "Clear Honey",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "Columbian Coffee",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.49
+    },
+    {
+      "itemName": "british pork sausage",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.35
+    },
+    {
+      "itemName": "Chi BreastFille 300g",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.75
+    }
+  ],
+  "discountList": []
+}

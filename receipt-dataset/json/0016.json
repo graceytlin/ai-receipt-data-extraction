@@ -1,0 +1,164 @@
+{
+  "id": "0016",
+  "date": "2021-12-04",
+  "storeName": "ALDI",
+  "itemList": [
+    {
+      "itemName": "FERRERO",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 5.75
+    },
+    {
+      "itemName": "DRK/WHTE CHOC 100G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.30
+    },
+    {
+      "itemName": "DRK/WHTE CHOC 100G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.30
+    },
+    {
+      "itemName": "DRK/WHTE CHOC 100G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.30
+    },
+    {
+      "itemName": "MAOAM MIXX",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.85
+    },
+    {
+      "itemName": "SALT TABLE 750G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.27
+    },
+    {
+      "itemName": "LEMONS UNWAXED",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.59
+    },
+    {
+      "itemName": "TUNA IN BRINE 145G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "TUNA IN BRINE 145G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "TUNA IN BRINE 145G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "TUNA IN BRINE 145G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "MAOAM MIXX",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.85
+    },
+    {
+      "itemName": "TURKISH DELIGHT",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.69
+    },
+    {
+      "itemName": "POTATO MINI ROAST",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.19
+    },
+    {
+      "itemName": "POTATOES MINI ROAST",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.19
+    },
+    {
+      "itemName": "ROSEMARY CUT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.47
+    },
+    {
+      "itemName": "THYME CUT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.47
+    },
+    {
+      "itemName": "STACKERS SC/BBQ",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.82
+    },
+    {
+      "itemName": "PEANUTS SALTED",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.46
+    },
+    {
+      "itemName": "XMAS PUFFS / BALLS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.85
+    },
+    {
+      "itemName": "SNACK MIX TRAY",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.85
+    },
+    {
+      "itemName": "SNACK MIX TRAY",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.85
+    },
+    {
+      "itemName": "WINE RED SPANISH",
+      "quantity": 1,
+      "category": "alcohol",
+      "price": 2.99
+    },
+    {
+      "itemName": "HONEY JAR 454G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.95
+    },
+    {
+      "itemName": "WINE RED SPANISH",
+      "quantity": 1,
+      "category": "alcohol",
+      "price": 2.99
+    },
+    {
+      "itemName": "SATSUMAS KING",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.49
+    }
+  ],
+  "discountList": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "0065",
+  "date": "2022-04-24",
+  "storeName": "B&M",
+  "itemList": [
+    {
+      "itemName": "SOREEN L/BOX/5PK W/CHOC",
+      "quantity": 2,
+      "category": "snacks",
+      "price": 2.00
+    },
+    {
+      "itemName": "SIMPLE SOAP 2PK/125G",
+      "quantity": 3,
+      "category": "personal hygiene",
+      "price": 2.67
+    },
+    {
+      "itemName": "PEARS SOAP 100G/4PK",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 2.29
+    },
+    {
+      "itemName": "MIRACLE GRO/50LTR",
+      "quantity": 1,
+      "category": "gardening",
+      "price": 7.49
+    }
+  ],
+  "discountList": []
+}

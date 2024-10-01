@@ -1,0 +1,14 @@
+{
+  "id": "0020",
+  "date": "2021-12-20",
+  "storeName": "Currys PC World",
+  "itemList": [
+    {
+      "itemName": "SONY WF-C500 G RN",
+      "quantity": 1,
+      "category": "electrical",
+      "price": 59.99
+    }
+  ],
+  "discountList": []
+}

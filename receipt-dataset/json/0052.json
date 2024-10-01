@@ -1,0 +1,20 @@
+{
+  "id": "0052",
+  "date": "2021-09-22",
+  "storeName": "T.K.maxx",
+  "itemList": [
+    {
+      "itemName": "ACCESSORIES & LIFESTYLE",
+      "quantity": 1,
+      "category": "clothes & accessories",
+      "price": 9.99
+    },
+    {
+      "itemName": "TK MEDIUM CARRIER",
+      "quantity": 1,
+      "category": "other",
+      "price": 0.10
+    }
+  ],
+  "discountList": []
+}

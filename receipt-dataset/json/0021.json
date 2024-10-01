@@ -1,0 +1,75 @@
+{
+  "id": "0021",
+  "date": "2021-10-21",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "CADDY LINERS",
+      "quantity": 1,
+      "category": "cleaning & laundry",
+      "price": 1.60
+    },
+    {
+      "itemName": "BERLINKI",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.30
+    },
+    {
+      "itemName": "FRSH WHPG CRM",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.20
+    },
+    {
+      "itemName": "FRESH MILK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.15
+    },
+    {
+      "itemName": "CARTRIDGES",
+      "quantity": 1,
+      "category": "electrical",
+      "price": 16.00
+    },
+    {
+      "itemName": "STEEL GARLIC",
+      "quantity": 1,
+      "category": "homeware",
+      "price": 2.50
+    },
+    {
+      "itemName": "SMOKED STREAKY",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "CEREAL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.00
+    },
+    {
+      "itemName": "CEREAL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.00
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "CC Cartridges",
+      "quantity": 1,
+      "category": "electrical",
+      "price": -5.50
+    },
+    {
+      "itemName": "CC Berlinki",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.30
+    }
+  ]
+}

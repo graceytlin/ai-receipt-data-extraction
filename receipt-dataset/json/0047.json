@@ -1,0 +1,20 @@
+{
+  "id": "0047",
+  "date": "2022-03-26",
+  "storeName": "Poundland",
+  "itemList": [
+    {
+      "itemName": "SELLOTAPE 24MX35MM",
+      "quantity": 1,
+      "category": "other",
+      "price": 1.00
+    },
+    {
+      "itemName": "OCCASION ROLL WRAP",
+      "quantity": 1,
+      "category": "other",
+      "price": 1.00
+    }
+  ],
+  "discountList": []
+}

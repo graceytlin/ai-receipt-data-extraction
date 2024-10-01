@@ -1,0 +1,44 @@
+{
+  "id": "0002",
+  "date": "2022-01-17",
+  "storeName": "T4",
+  "itemList": [
+    {
+      "itemName": "Fried Chicken Popcorns",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 4.50
+    },
+    {
+      "itemName": "Mango Royal Tea",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.80
+    },
+    {
+      "itemName": "- L - Royal Tea",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.60
+    },
+    {
+      "itemName": "- White Pe",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.60
+    },
+    {
+      "itemName": "Jadeite Royal Tea",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 2.80
+    },
+    {
+      "itemName": "- Pearl",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.60
+    }
+  ],
+  "discountList": []
+}

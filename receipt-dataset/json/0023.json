@@ -1,0 +1,50 @@
+{
+  "id": "0023",
+  "date": "2022-01-21",
+  "storeName": "LiDL",
+  "itemList": [
+    {
+      "itemName": "Custard Creams Biscu",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.41
+    },
+    {
+      "itemName": "4 Muffins TripleChoc",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.85
+    },
+    {
+      "itemName": "12 FR Large Eggs",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.89
+    },
+    {
+      "itemName": "Garlic",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.79
+    },
+    {
+      "itemName": "Medallion Steak 340g",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.19
+    },
+    {
+      "itemName": "Tomatoes",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.72
+    },
+    {
+      "itemName": "Onions",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.49
+    }
+  ],
+  "discountList": []
+}

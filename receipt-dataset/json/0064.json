@@ -1,0 +1,56 @@
+{
+  "id": "0064",
+  "date": "2022-02-07",
+  "storeName": "WHLUNG SUPERMARKET",
+  "itemList": [
+    {
+      "itemName": "WW SHELLY SENBEI RICE CRACKERS 150G",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.35
+    },
+    {
+      "itemName": "EULONG COCONUT SHRED COOKIES 520G",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 8.15
+    },
+    {
+      "itemName": "FYN HUAI ROU CHESTNUT 300G",
+      "quantity": 2,
+      "category": "snacks",
+      "price": 7.10
+    },
+    {
+      "itemName": "FYN RINGENT CHESTNUT 270G",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 3.15
+    },
+    {
+      "itemName": "RG MALAYSIAN SPONGE CAKE 360G",
+      "quantity": 2,
+      "category": "snacks",
+      "price": 7.40
+    },
+    {
+      "itemName": "FRUIT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.38
+    },
+    {
+      "itemName": "LKK CHINESE MARINADE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.55
+    },
+    {
+      "itemName": "FRESH FUJI APPLES CASE - SMALL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 10.95
+    }
+  ],
+  "discountList": []
+}

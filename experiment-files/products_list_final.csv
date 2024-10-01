@@ -1,0 +1,658 @@
+,store name,item name,category
+0,TESCO,SPAGHETTI,groceries
+1,TESCO,PASTA,groceries
+2,WAITROSE & PARTNERS,WR SEA BREAM FILLETS,groceries
+3,TESCO,YAKULT DRINK,drinks
+4,TESCO,CC VEGETABLES 3 FOR 2 C/F,groceries
+5,Sushi Jun,CALIFORNIA ROLL,eating out
+6,LiDL,Maple and PecanPlait,groceries
+7,TESCO,KITCHEN TOWELS,cleaning & laundry
+8,TESCO,CC Butternut soup,groceries
+9,TESCO,CC Ice cream,snacks
+10,B&M,SIMPLE SOAP 2PK/125G,personal hygiene
+11,TESCO,CC Jalfrezi sauce,snacks
+12,TESCO,CAFE LATTE,drinks
+13,TESCO,JALFREZI SAUCE,groceries
+14,lidl,Echalion Shallots,groceries
+15,TESCO,BEEF MINCE REDUCED PRICE,groceries
+16,TESCO,TESCO GRLC500G,groceries
+17,tesco,£3 MEAL DEAL,eating out
+18,WAITROSE & PARTNERS,CC BELGN BTTR WFFLES,groceries
+19,WAITROSE & PARTNERS,WR ESS CHICK DRMSTKS,groceries
+20,TESCO,STEEL GARLIC,homeware
+21,TESCO,KING PRAWNS,groceries
+22,TESCO,CAFE LATTE,drinks
+23,Sainsbury's,JS DBLE CHC COOKIES,snacks
+24,TESCO,CC Slices,groceries
+25,TESCO,ECLAIRS,snacks
+26,TESCO,CONTI MEAT,groceries
+27,TESCO,PORK SLICES,groceries
+28,TESCO,FRESH MILK,groceries
+29,WAITROSE & PARTNERS,WR BLUEBS,groceries
+30,TESCO,TUNA,groceries
+31,tesco,CC Chocolate,snacks
+32,TESCO,CC Prawns,groceries
+33,TESCO,FRESH MILK,groceries
+34,TESCO,CC Ice cream,snacks
+35,WAITROSE & PARTNERS,TANGERINES,groceries
+36,tesco,FRUIT GUMS,snacks
+37,LiDL,Chocol Chip Cookies,snacks
+38,LiDL,Frosted Flakes,groceries
+39,TESCO,GATEAU BAR,snacks
+40,TESCO,SAUSAGE SLICES,groceries
+41,COSTA,Latte Regular,drinks
+42,lidl,Green Tee Peach,drinks
+43,TESCO,KABANOS,groceries
+44,TESCO,Kellogg's Crunchy Nut Chcolate Clusters 450g,groceries
+45,LiDL,Baking Soda 170g,groceries
+46,TESCO,SESAME BAGELS,groceries
+47,TESCO,COOKED HAM,groceries
+48,LiDL,Medium Loaf White,groceries
+49,WAITROSE & PARTNERS,Burgers 2 for £7.50,groceries
+50,WAITROSE & PARTNERS,TANGERINES,groceries
+51,TESCO,GREEK YOGURT,groceries
+52,ALDI,FERRERO,snacks
+53,TESCO,PORK SNACK,snacks
+54,TESCO,CKN DRUMSTICKS,groceries
+55,OXFAM,C1A - POPULAR FICTION,entertainment
+56,TESCO,SOFT CHEESE,groceries
+57,TESCO,JUICE DRINK,drinks
+58,TESCO,CONDITIONER,personal hygiene
+59,TESCO,CHILLI CHEESE,groceries
+60,TESCO,CEREAL,groceries
+61,WAITROSE & PARTNERS,WR B/CHICKEN WINGS,groceries
+62,LiDL,Soft Medium White,groceries
+63,TESCO,F/RANGE EGGS,groceries
+64,LiDL,Tuna in Brine,groceries
+65,TESCO,CC Lychee drink,drinks
+66,lidl,Tomato Passata,groceries
+67,TESCO,FRSH DBL CRM,groceries
+68,TESCO,CC Coffee beans,drinks
+69,TESCO,BEEF MINCE,groceries
+70,TESCO,PRAWNS,groceries
+71,OXFAM,C1A - POPULAR FICTION,entertainment
+72,WHLUNG SUPERMARKET,WW SHELLY SENBEI RICE CRACKERS 150G,snacks
+73,lidl,Pak Choi 2Pk,groceries
+74,TESCO,PORK SAUSAGES,groceries
+75,WAITROSE & PARTNERS,WR AA SIRLOIN STEAK,groceries
+76,TESCO,FRUIT JUICE,drinks
+77,TESCO,SLICED BLOOM,groceries
+78,TESCO,CC Pizza,groceries
+79,Sainsbury's,*WALKERS MAX 50G,snacks
+80,TESCO,CKN NUGGETS,groceries
+81,TESCO,YOGHUTS,snacks
+82,UNIQLO,W's rayon blouse,clothes & accesories
+83,TESCO,H.BUBBA TAPE,snacks
+84,LiDL,Organic Vine Tomato,groceries
+85,TESCO,DRIED YEAST,groceries
+86,TESCO,PORK SLICES,groceries
+87,LiDL,Tomatoes,groceries
+88,TESCO,CHOC BISCUIT,snacks
+89,TESCO,BEEF MINCE REDUCED PRICE,groceries
+90,TESCO,CHEESE SLICE,groceries
+91,OXFAM,C1A - POPULAR FICTION,entertainment
+92,TESCO,GINGER NUTS,snacks
+93,ALDI,STACKERS SC/BBQ,snacks
+94,Sainsbury's,*MALTESERS 189G,snacks
+95,TESCO,ICE CREAM,snacks
+96,TESCO,CHICKEN DRUMS,groceries
+97,WAITROSE & PARTNERS,V CKITTENS ETON MESS,snacks
+98,LiDL,Green Tea honey,drinks
+99,TESCO,BACON RASHERS,groceries
+100,WAITROSE & PARTNERS,WR BEEF FRYING STEAK,groceries
+101,OXFAM,C1A - POPULAR FICTION,entertainment
+102,evapo,*Smok RPM  Coil 0.4,nicotine
+103,TESCO,WALNUTS,groceries
+104,Sushi Jun,Bubble Tea,drinks
+105,LiDL,british pork sausage,groceries
+106,WAITROSE & PARTNERS,WR EASY PEELERS,groceries
+107,Sainsbury's,DANISH MAPLE PECAN,groceries
+108,TESCO,SPRING ONIONS,groceries
+109,TESCO,BRIOCHE ROLL,groceries
+110,T.K.maxx,ACCESSORIES & LIFESTYLE,clothes & accessories
+111,TESCO,CC Latte drink,drinks
+112,ALDI,WINE RED SPANISH,alcohol
+113,Simply Fresh,DFE CKTAIL F/FURTER PM1,groceries
+114,TESCO,COCONUT,groceries
+115,TESCO,8 CUP,homeware
+116,Simply Fresh,REGULAR TEA SMOKIN BEAN,drinks
+117,TEA TERRACE,Smoked Salmon Salad,eating out
+118,Simply Fresh,NEW REGULAR CHAI LATTE,drinks
+119,TESCO,CAFE LATTE,drinks
+120,TESCO,FRESH CHICKEN,groceries
+121,TESCO,ICED COFFEE,drinks
+122,Greggs,Handled Paper Bag,homeware
+123,TESCO,HAPPY HIPPO,snacks
+124,TESCO,ICE CREAM,snacks
+125,TESCO,Cc Ice Cream,snacks
+126,OXFAM,C1A - POPULAR FICTION,entertainment
+127,TESCO,Tesco Non-scratch Sponge Pan Cleaners 6 Pack,cleaning & laundry
+128,TESCO,BERLINKI,groceries
+129,Sainsbury's,WW FRUITS BISCUIT SH,snacks
+130,WAITROSE & PARTNERS,TANGERINES,groceries
+131,Poundland,OCCASION ROLL WRAP,other
+132,OXFAM,C1A - POPULAR FICTION,entertainment
+133,TESCO,LITTLE GEM TWIN,groceries
+134,TESCO,CAFE LATTE,drinks
+135,ALDI,SATSUMAS KING,groceries
+136,TESCO,CEREAL,groceries
+137,TESCO,GOLDEN SYRUP,groceries
+138,LiDL,Paracetamol Caplets,health & pharmacy
+139,lidl,Loose Baking Potat.,groceries
+140,ALDI STORES,BAPS 4PK,groceries
+141,LiDL,Chicken Thigh Fillet,groceries
+142,TESCO,SMIRNOFF ICE,alcohol
+143,www.itsu.com,detox miso noodle soup,eating out
+144,TESCO,CC Ice cream,snacks
+145,TESCO,SPICES/HERBS,groceries
+146,TESCO,LURPAK BUTTER,groceries
+147,Uber Eats,salmon full house,eating out
+148,TESCO,MOZZARELLA,groceries
+149,TESCO,W/FOOD PINE NU,groceries
+150,LiDL,Garlic,groceries
+151,TESCO,CC Bake bag,homeware
+152,TESCO,F/RANGE EGGS,groceries
+153,Simply Fresh,STRAWBERRY TWISTS,snacks
+154,WAITROSE & PARTNERS,WR 2 RUMP BURGERS,groceries
+155,TESCO,ICE CREAM,snacks
+156,TESCO,AUBERGINE,groceries
+157,ALDI,ROSEMARY CUT,groceries
+158,TESCO,CHICKEN,groceries
+159,TESCO,GUMMY SWEETS,snacks
+160,TESCO,CC Latte drink,drinks
+161,TESCO,RED PEPPER,groceries
+162,TESCO,CC Conditioner,personal hygiene
+163,TESCO,GUMMY SWEETS,snacks
+164,B&M,SOREEN L/BOX/5PK W/CHOC,snacks
+165,WHLUNG SUPERMARKET,FRUIT,groceries
+166,Sainsbury's,WW BERRY&WHITE CHOC,snacks
+167,TESCO,CC DELI SHARING 2 FOR u4,groceries
+168,TESCO,PLATTER,groceries
+169,TESCO,BERLINKI,groceries
+170,B&M,SMALL MAGIC MAT/PLAIN,homeware
+171,TESCO,CRISPS,snacks
+172,TESCO,RED LEICESTER,groceries
+173,LiDL,Premium Oranges,groceries
+174,B&M,MIRACLE GRO/50LTR,gardening
+175,WAITROSE & PARTNERS,WR MSC KETA SALMON,groceries
+176,TESCO,ENGLISH BUTTER,groceries
+177,TESCO,KITKAT CHUNKY,snacks
+178,TESCO,TESCO GRLC500G,groceries
+179,TESCO,MINI EGGS BAR,snacks
+180,TESCO,CC Lamb chops,groceries
+181,evapo,Nasty Juice NS Cushman 20mg,nicotine
+182,TESCO,OPTIONS DRINK,drinks
+183,TEA TERRACE,Optional Gratuity 10% 10,eating out
+184,TESCO,CC Milkshake,drinks
+185,TESCO,CAFE LATTE,drinks
+186,TESCO,MULTIPACK CRSP,snacks
+187,TESCO,TOWELS,personal hygiene
+188,Sainsbury's,CHOCOLATE TWIST,groceries
+189,TESCO,FROZEN PIZZA,groceries
+190,WAITROSE & PARTNERS,WR A/A RUMP STEAK,groceries
+191,TESCO,CAFE LATTE,drinks
+192,TESCO,PARSLEY,groceries
+193,TESCO,CKN NUGGETS,groceries
+194,TESCO,CEREAL,groceries
+195,TESCO,BISCUITS,snacks
+196,TESCO,WAFFLES,snacks
+197,TESCO,SPINACH,groceries
+198,WAITROSE & PARTNERS,WR ESS THIGH FILLETS,groceries
+199,TESCO,4 CROISSANTS,groceries
+200,B&M,PEARS SOAP 100G/4PK,personal hygiene
+201,LiDL,Frijj Cookie Dough,drinks
+202,WHLUNG SUPERMARKET,RG MALAYSIAN SPONGE CAKE 360G,snacks
+203,ALDI,SNACK MIX TRAY,snacks
+204,Sainsbury's,CHEESE TWIST,groceries
+205,WAITROSE & PARTNERS,WR CHICK JAMB SOUP,groceries
+206,LiDL,Fresh Corn,groceries
+207,TESCO,CC CHEDDAR 2 FOR u3,groceries
+208,TESCO,LAMB CHOPS,groceries
+209,LiDL,Custard Creams Biscu,snacks
+210,LiDL,Valentina Tomatoes,groceries
+211,TESCO,LIME JELLY,snacks
+212,TESCO,PEAS,groceries
+213,Poundland,SELLOTAPE 24MX35MM,other
+214,TESCO,CC Nutella,groceries
+215,LiDL,Garlic,groceries
+216,TESCO,TOOTHBRUSH,personal hygiene
+217,TESCO,CHOC ECLAIRS,snacks
+218,TESCO,Tesco Rocket Chillies 250g,groceries
+219,TESCO,GINGER CAKE,snacks
+220,LiDL,Bells Ibuprofen 200m,health & pharmacy
+221,OXFAM,C1A - POPULAR FICTION,entertainment
+222,TESCO,CHOCOLATE,snacks
+223,T.K.maxx,TK MEDIUM CARRIER,other
+224,ALDI,XMAS PUFFS / BALLS,snacks
+225,TESCO,ONIONS 1KG,groceries
+226,TESCO,SOFT CHEESE,groceries
+227,TESCO,ICE CREAM,snacks
+228,TESCO,KM WHITE MED,groceries
+229,OXFAM,C6A - POETRY & PLAYS,entertainment
+230,LiDL,Rainbow Tomatoes,groceries
+231,ALDI STORES,MUSHROOM CLSEDCUP,groceries
+232,TESCO,COFFEE BEANS,drinks
+233,Sainsbury's,STRBKS CAFF LAT220ML,drinks
+234,TESCO,Tesco Spirali Pasta 500g,groceries
+235,TESCO,CAFFE LATTE,drinks
+236,lidl,Beef Brisket Joint,groceries
+237,TESCO,PAIN AU RAISIN,groceries
+238,Boots UK Limited,Smp Kd Ab Clns Wsh,personal hygiene
+239,t/a shake shack,10 BITES,eating out
+240,TESCO,SALMON FILLETS,groceries
+241,Simply Fresh,STRAWBERRY TWISTS,snacks
+242,TACO BELL,QUES BOX,eating out
+243,TESCO,CC Potatoes,groceries
+244,TESCO,CHICKEN,groceries
+245,TESCO,BREAD,groceries
+246,LiDL,Lamb Loin Chops,groceries
+247,TESCO,COOKING SAUCE,groceries
+248,TESCO,CHEESE,groceries
+249,TESCO,CC Actimel 12pk,drinks
+250,Greggs,Chicken Bake,eating out
+251,TESCO,YOGURT,groceries
+252,Currys PC World,SONY WF-C500 G RN,electrical
+253,TESCO,PEANUT BUTTER,groceries
+254,TESCO,OKRA,groceries
+255,OXFAM,C1A - POPULAR FICTION,entertainment
+256,lidl,Green Tee Honey,drinks
+257,TESCO,AVOCADO EACH,groceries
+258,TESCO,TWIN SWEETCORN,groceries
+259,TESCO,TORTILLA CHIPS,snacks
+260,TESCO,BBQ SAUCE,groceries
+261,LiDL,Green Tea Blueberry,drinks
+262,TESCO,ICE LOLLIES,snacks
+263,TESCO,SMOKED STREAKY,groceries
+264,OXFAM,C1A - POPULAR FICTION,entertainment
+265,TESCO,CEREAL,groceries
+266,TESCO,TWIN SWEETCORN,groceries
+267,TESCO,MULLCDRSPICE,groceries
+268,LiDL,Extra Large Onions,groceries
+269,t/a shake shack,Choc Queen SNG,eating out
+270,TESCO,UNSALT BUTTER,groceries
+271,OXFAM,C1A - POPULAR FICTION,entertainment
+272,TESCO,CC chocolate cake,snacks
+273,TESCO,COFFEE BEANS,groceries
+274,TESCO,LAMB CHOPS,groceries
+275,OXFAM,C1A - POPULAR FICTION,entertainment
+276,LiDL,Smoked Bacon,groceries
+277,TESCO,PIZZA,groceries
+278,TESCO,GINGER NUTS,snacks
+279,LiDL,Washed Baby Spinach,groceries
+280,Uber Eats,chicken spring onion gyoza,eating out
+281,tesco,CHOCOLATE,snacks
+282,TESCO,KIPLING,snacks
+283,TESCO,CC Pizza,groceries
+284,KENJI,Taku Glass Mug - Mushroom,homeware
+285,TESCO,TOWELS,personal hygiene
+286,TESCO,CC Fish fingers,groceries
+287,ALDI,HONEY JAR 454G,groceries
+288,TESCO,Tesco Salad Tomatoes 6 Pack,groceries
+289,WAITROSE & PARTNERS,MPFE 3 For £10,groceries
+290,TESCO,CC Choc mini rolls,snacks
+291,TESCO,RIPE BANANAS,groceries
+292,TESCO,CASHEW NUTS,groceries
+293,TESCO,CEREAL,groceries
+294,TESCO,CC Ginger cake,snacks
+295,TESCO,PIZZA,groceries
+296,tesco,CC Chocolate,snacks
+297,Co-op,CP MAYONNAISE,groceries
+298,TESCO,LYCHEE DRINK,drinks
+299,WHLUNG SUPERMARKET,FRESH FUJI APPLES CASE - SMALL,groceries
+300,TESCO,CC Kitchen towels,cleaning & laundry
+301,TESCO,HAND WASH,personal hygiene
+302,TESCO,CAFE LATTE,drinks
+303,TESCO,CC Berlinki,groceries
+304,TESCO,HAND WASH,personal hygiene
+305,TESCO,BRIOCHE ROLLS,groceries
+306,ALDI,MAOAM MIXX,snacks
+307,lidl,White Toastie,groceries
+308,WAITROSE & PARTNERS,MPF 3 For £10,groceries
+309,TESCO,CC Ice cream,snacks
+310,LiDL,Peperami Jerky,snacks
+311,LiDL,Marvellous Tomatoes,groceries
+312,TESCO,CC Lamb chops,groceries
+313,LiDL,Clear Honey,groceries
+314,TESCO,POTATOES,groceries
+315,LiDL,Vegetable Oil,groceries
+316,TESCO,CC Walkers crisps,snacks
+317,T4,- L - Royal Tea,drinks
+318,TESCO,HADDOCK,groceries
+319,LiDL,Grapefruit Loose,groceries
+320,Sainsbury's,*MONSTER PIPELINE,drinks
+321,WHLUNG SUPERMARKET,FYN HUAI ROU CHESTNUT 300G,snacks
+322,www.itsu.com,salmon baby rolls,eating out
+323,TESCO,CC Chicken sauce,groceries
+324,TESCO,F/RANGE EGGS,groceries
+325,ALDI,DRK/WHTE CHOC 100G,groceries
+326,TESCO,SMOKED STREAKY,groceries
+327,TESCO,CC Haddock,groceries
+328,TESCO,BURGER BUNS,groceries
+329,TESCO,CC Ice cream,snacks
+330,www.itsu.com,extra egg,eating out
+331,OXFAM,C1A - POPULAR FICTION,entertainment
+332,TESCO,SALAD TOMATOES,groceries
+333,TESCO,CUMIN SEEDS,groceries
+334,TESCO,CC Ice cream,snacks
+335,TESCO,WHOLEMEAL,groceries
+336,ALDI,TURKISH DELIGHT,snacks
+337,TESCO,SWEETS,snacks
+338,TESCO,SMOKED SALMON,groceries
+339,T.K.maxx,TK MEDIUM CARRIER,other
+340,TESCO,Cadbury Flake Ice Cream 480ml,snacks
+341,TESCO,FRUIT JUICE,drinks
+342,LiDL,Kinder Joy,snacks
+343,LiDL,Pomegranate,groceries
+344,ALDI,MAOAM MIXX,snacks
+345,TESCO,PEPSI COLA,drinks
+346,LiDL,Sweet Shop Favourite,snacks
+347,KENJI,Yabu Monster - Grey,other
+348,ALDI,LEMONS UNWAXED,groceries
+349,TESCO,FRESH MILK,groceries
+350,LiDL,Medallion Steak 340g,groceries
+351,LiDL,Budweiser 4.5%,alcohol
+352,TESCO,ACTIMEL 12PK,drinks
+353,TESCO,SALMON FILLETS,groceries
+354,tesco,CHOCOLATE,snacks
+355,UNIQLO,W's tapered trousers,clothes & accesories
+356,ALDI STORES,BAPS 4PK,groceries
+357,Sushi Jun,SEARD SALMON ROLL,eating out
+358,Simply Fresh,DFE CKTAIL F/FURTER PM1,groceries
+359,LiDL,Onions,groceries
+360,TESCO,Cravendale Filtered Whole Milk 2 Litre,groceries
+361,TESCO,CC Frozen pizza,groceries
+362,LiDL,MSC Wild Salmon,groceries
+363,ALDI,POTATOES MINI ROAST,groceries
+364,Sainsbury's,Meal Deal,groceries
+365,LiDL,Mentos Chupa Babol,snacks
+366,TESCO,F/RANGE EGGS,groceries
+367,TESCO,FRSH WHPG CRM,groceries
+368,T.K.maxx,MENS JERSEY,clothes & accessories
+369,TESCO,SWEETS,snacks
+370,TESCO,EGGS,groceries
+371,TESCO,CHICKEN THIGHS,groceries
+372,bodycare,STREPSILS 36 s HONEY&LEMON,health & pharmacy
+373,TESCO,CC Tortilla chips,snacks
+374,TESCO,ICE CREAM,snacks
+375,WAITROSE & PARTNERS,WAKAME SALAD,groceries
+376,OXFAM,C1A - POPULAR FICTION,entertainment
+377,TESCO,OLIVE OIL,groceries
+378,ALDI,TUNA IN BRINE 145G,groceries
+379,TESCO,HONEY,groceries
+380,lidl,Green Tee Pomegrana,drinks
+381,TESCO,CAKE DECOR,groceries
+382,evapo,Coil Multi Buy 5 for 4.,nicotine
+383,TESCO,CC Options drink,drinks
+384,B&M,DETTOL 500ML/AIO LINEN,cleaning & laundry
+385,TESCO,ROAST CHICKEN,groceries
+386,TESCO,W 400G DAN WHT,groceries
+387,WAITROSE & PARTNERS,WR B/CHICKEN WINGS,groceries
+388,OXFAM,C1A - POPULAR FICTION,entertainment
+389,OXFAM,C14A - REFERENCE,entertainment
+390,TESCO,CHINESE LEAF,groceries
+391,TESCO,BACON RASHERS,groceries
+392,Sainsbury's,PIZZA SWIRL,groceries
+393,LiDL,Deluxe Blueberries,groceries
+394,UNIQLO,W's rayon blouse,clothes & accesories
+395,WAITROSE & PARTNERS,WR ESS HOT CROSS BUN,groceries
+396,WAITROSE & PARTNERS,WAKAME SALAD,eating out
+397,TESCO,CHICKEN THIGHS,groceries
+398,TESCO,CHOCOLATE,snacks
+399,ALDI STORES,SPRING ONIONS,groceries
+400,TESCO,CHICKEN THIGHS,groceries
+401,LiDL,Green Peach,drinks
+402,TESCO,CEREAL,groceries
+403,TESCO,CRISPS,snacks
+404,OXFAM,C1A - POPULAR FICTION,entertainment
+405,LiDL,Danone Actimel Straw,drinks
+406,WAITROSE & PARTNERS,MPF 3 for £10,groceries
+407,WAITROSE & PARTNERS,WR EASY PEELERS,groceries
+408,TEA TERRACE,Cream Tea For 2,eating out
+409,TESCO,YOGURT,groceries
+410,TESCO,CC Pitch,groceries
+411,TESCO,EGGS,groceries
+412,TESCO,Simple Kind To Skin Refreshing Shower Gel 500ml,personal hygiene
+413,ALDI STORES,BAPS 4PK,groceries
+414,TESCO,CAFE LATTE,drinks
+415,ALDI,DRK/WHTE CHOC 100G,groceries
+416,TESCO,PASTA,groceries
+417,TESCO,Tesco British Chicken Thigh Fillets 600g,groceries
+418,TESCO,FRESH MILK,groceries
+419,t/a shake shack,MeisterShack,eating out
+420,LiDL,Medium Avocado,groceries
+421,TESCO,SEASONAL VEG,groceries
+422,TESCO,TESCO GRLC500G,groceries
+423,T.K.maxx,ACCESSORIES & LIFESTYLE,clothes & accessories
+424,Sainsbury's,BLT SW,groceries
+425,TESCO,BROWN SUGAR,groceries
+426,WHLUNG SUPERMARKET,LKK CHINESE MARINADE,groceries
+427,TESCO,FROZEN PIZZA,groceries
+428,TESCO,CHOCOLATE,snacks
+429,TESCO,RIPE BANANAS,groceries
+430,TESCO,PRAWNS,groceries
+431,LiDL,Alexandra Potatoes,groceries
+432,LiDL,Corn on the cob Loos,groceries
+433,ALDI,THYME CUT,groceries
+434,TESCO,MINI EGGS BAR,snacks
+435,TESCO,BLACK PUDDING,groceries
+436,TESCO,SMOKED STREAKY,groceries
+437,TESCO,CAKE,snacks
+438,TESCO,CHEDDAR,groceries
+439,WAITROSE & PARTNERS,2 for £4 2 for £4,groceries
+440,TESCO,CC Lychee drink,drinks
+441,TESCO,RED PEPPER,groceries
+442,TESCO,BODY WASH,personal hygiene
+443,UNIQLO,W's rayon blouse,clothes & accesories
+444,WAITROSE & PARTNERS,WR 2 RUMP BURGERS,groceries
+445,WAITROSE & PARTNERS,V TWIX TWIN BAR,snacks
+446,TESCO,CHOCOLATE,snacks
+447,KENJI,Mima Bunny Plush Keyring,clothes & accesories
+448,TESCO,ICE CREAM,snacks
+449,TESCO,CAFE LATTE,drinks
+450,LiDL,Whole Goose,groceries
+451,TESCO,CC Toppings,snacks
+452,T4,Mango Royal Tea,drinks
+453,LiDL,BBQ Sauce,groceries
+454,WAITROSE & PARTNERS,WR SALMN TAIL FILLTS,groceries
+455,ALDI,PEANUTS SALTED,snacks
+456,TESCO,TESCO GRLC500G,groceries
+457,TESCO,CAFE LATTE,drinks
+458,LiDL,Mackeral Sunflower,groceries
+459,TESCO,Tesco Pork Lean Mince 5% Fat 500g,groceries
+460,TESCO,Ben & Jerry's Baked Alaska Vanilla Ice Cream 465ml,snacks
+461,TESCO,FISH FINGERS,groceries
+462,TESCO,TRAINER LINERS,clothes & accessories
+463,TESCO,FRESH MILK,groceries
+464,OXFAM,C1A - POPULAR FICTION,entertainment
+465,Blue Bear Bookshop,DESCENDANT OF THE CRANE,entertainment
+466,TESCO,KIPLING,snacks
+467,TESCO,TOWELS,personal hygiene
+468,Sainsbury's,PAIN AUX RAISINS,groceries
+469,T.K.maxx,MENS ESSENTIALS,clothes & accessories
+470,TESCO,ICE CREAM,snacks
+471,LiDL,Mini Cucumbers,groceries
+472,T4,- Pearl,drinks
+473,T4,Jadeite Royal Tea,drinks
+474,LiDL,Chi BreastFille 300g,groceries
+475,TESCO,UNSALT BUTTER,groceries
+476,TESCO,POTATOES,groceries
+477,TESCO,Cetaphil Gentle Skin Cleanser 236ml,personal hygiene
+478,ALDI,POTATO MINI ROAST,groceries
+479,LiDL,4 Muffins TripleChoc,snacks
+480,TESCO,SEASONAL VEG,groceries
+481,WAITROSE & PARTNERS,WR ESS BEEF BURGERS,groceries
+482,LiDL,Green Tea Plum,drinks
+483,TESCO,BERLINKI,groceries
+484,LiDL,Bananas 5 Pack,groceries
+485,TESCO,T.ZIPSEAL BAGS,homeware
+486,LiDL,Sea Salt Mill,homeware
+487,TESCO,REFUSE SACKS,cleaning & laundry
+488,TESCO,CC Cake,snacks
+489,LiDL,MarbleBriocheVanilla,groceries
+490,TESCO,MINI EGGS BAR,snacks
+491,TESCO,PORK MINCE,groceries
+492,TESCO,CC Fruit juice,drinks
+493,TESCO,CC Crisps,snacks
+494,Simply Fresh,HAM & CHEESE CROISSANT,groceries
+495,TESCO,CC Cartridges,electrical
+496,LiDL,Tenderstem Broccoli,groceries
+497,TESCO,CC Berlinki,groceries
+498,TESCO,CC Berlinki,groceries
+499,TESCO,CHOCOLATE,snacks
+500,TESCO,HOT CHILLI,groceries
+501,TESCO,CC Chicken,groceries
+502,TESCO,Smirnoff ice,alcohol
+503,TESCO,SAUSAGES,groceries
+504,TESCO,NUTS,snacks
+505,TESCO,Cc Skincare,personal hygiene
+506,TESCO,CHOCOLATE CAKE,snacks
+507,TESCO,YAKULT DRINK,drinks
+508,TESCO,SPRKLING WAT,drinks
+509,WHLUNG SUPERMARKET,EULONG COCONUT SHRED COOKIES 520G,snacks
+510,Uber Eats,Gyoza dipping pot,eating out
+511,TESCO,PORK SLICES,groceries
+512,TESCO,T RIPE AVO PK,groceries
+513,TESCO,JUICE DRINK,drinks
+514,TESCO,HONEY,groceries
+515,TESCO,BAKE BAG,homeware
+516,TESCO,CHOC CREPES,groceries
+517,TESCO,CREME CARAMEL,snacks
+518,WAITROSE & PARTNERS,WR SALMN TAIL FILLTS,groceries
+519,LiDL,Columbian Coffee,drinks
+520,TESCO,F/RANGE EGGS,groceries
+521,LiDL,Frylight Coconut Oil,groceries
+522,TESCO,CC Ice cream,snacks
+523,ALDI STORES,BAPS 4PK,groceries
+524,TESCO,LEMONADE,drinks
+525,TESCO,CADDY LINERS,cleaning & laundry
+526,LiDL,Organic Carrots,groceries
+527,TESCO,MIRIN,groceries
+528,TESCO,CKN DRUMSTICKS,groceries
+529,TESCO,Tesco Medium Free Range Eggs 12 Pack,groceries
+530,TESCO,CC Cake decor,groceries
+531,TESCO,CC Nuts,snacks
+532,LiDL,Frijj Cookie Dough,drinks
+533,Sainsbury's,STRBKS CAFF LAT220ML,drinks
+534,Vapouriz,PRICE MATCH,nicotine
+535,TESCO,TOWELS,personal hygiene
+536,WAITROSE & PARTNERS,GRESS SPATCHCOCK,groceries
+537,Sushi Jun,Vegetable GYOZA,eating out
+538,TESCO,Tesco Corn On The Cob Twinpack,groceries
+539,OXFAM,C1A - POPULAR FICTION,entertainment
+540,TESCO,CC Slices,groceries
+541,TESCO,POTATO SHAPES,groceries
+542,TESCO,CHOC MINI ROLLS,snacks
+543,TESCO,GUM,snacks
+544,tesco,CHICKEN S/WICH,eating out
+545,TESCO,BLACK PUDDING,groceries
+546,OXFAM,C1A - POPULAR FICTION,entertainment
+547,Poundland,MAGNETIC CAR PHONE HOLDER,other
+548,ALDI,SNACK MIX TRAY,snacks
+549,TESCO,LYCHEE DRINK,drinks
+550,LiDL,Sweet Mixed Peppers,groceries
+551,TESCO,CHOC BUNNIES,snacks
+552,tesco,CHOCOLATE,snacks
+553,TESCO,CKN NUGGETS,groceries
+554,TESCO,BREAD,groceries
+555,T.K.maxx,MENS BEST BRANDS,clothes & accessories
+556,TESCO,CRISPS,snacks
+557,TESCO,SCRATCHINGS,snacks
+558,LiDL,British Unsal Butter,groceries
+559,ALDI,TUNA IN BRINE 145G,groceries
+560,TESCO,STREAKY BACON,groceries
+561,TESCO,CC Latte drink,drinks
+562,ALDI,DRK/WHTE CHOC 100G,groceries
+563,LiDL,Lemon Cake,snacks
+564,LiDL,Smoked Salmon,groceries
+565,T4,Fried Chicken Popcorns,eating out
+566,TESCO,CC Cheese,groceries
+567,OSPREY LONDON,MS4275-22:CHESTNUT Malham N/S Coin Wallet - Glazed Calf Colour: CHESTNUT,clothes & accessories
+568,TESCO,Tesco Raw King Prawns 165g,groceries
+569,TESCO,CLEMENTINE,groceries
+570,TESCO,Fairy Non Biological Washing Gel 35 Washes 1295ml,cleaning & laundry
+571,TESCO,Flash Kitchen Degreaser Spray 750ml,cleaning & laundry
+572,TESCO,Kellogg's Crunchy Nut Chocolate Clusters 450g,groceries
+573,TESCO,SUGAR,groceries
+574,TESCO,CKN NUGGETS,groceries
+575,TESCO,TOPPINGS,snacks
+576,TESCO,Tesco British Chicken Thigh Fillets 1kg,groceries
+577,LiDL,Mango,groceries
+578,Uber Eats,veggie dragon roll,eating out
+579,TESCO,MINI EGGS,snacks
+580,lidl,DISCOUNT 30%,groceries
+581,TESCO,GARLIC GRANU,groceries
+582,TESCO,GEM LETTUCE,groceries
+583,TESCO,BREAD,groceries
+584,LiDL,Men Hydra Ener Scrub,personal hygiene
+585,Greggs,Sausage Roll,eating out
+586,TESCO,CC Golden syrup,groceries
+587,UNIQLO,W's tapered trousers,clothes & accesories
+588,LiDL,12 FR Large Eggs,groceries
+589,tesco,CRISPS,snacks
+590,TESCO,LATTE DRINK,drinks
+591,TESCO,EGGS,groceries
+592,Sainsbury's,*HARIBO TANGFASTICS,snacks
+593,Simply Fresh,NEW REGULAR LATTE,drinks
+594,TESCO,Comfort Creation Limited Edition Fabric Conditioner 33 Wash 1.16l,cleaning & laundry
+595,TESCO,MILKSHAKE,drinks
+596,TESCO,CONDITIONER,personal hygiene
+597,TESCO,BUTTERNUT SOUP,groceries
+598,Sushi Jun,UNAGI&CUCUMBER ROLL,eating out
+599,LiDL,Asparagus Tips,groceries
+600,House of Fraser,Nicce Expo Jkt Sn00,clothes & accessories
+601,TESCO,CC Ice lollies,snacks
+602,TESCO,Fairy Original Washing Up Liquid 1150ml,cleaning & laundry
+603,TESCO,NY BAGELS,groceries
+604,LiDL,Garlic,groceries
+605,TESCO,PASTRY,groceries
+606,lidl,AriZona Iced Tea,drinks
+607,TESCO,WALKERS CRISPS,snacks
+608,TESCO,S/BERRY JELLY,snacks
+609,TESCO,CC Hand wash,personal hygiene
+610,ALDI,WINE RED SPANISH,alcohol
+611,LiDL,Cucumber,groceries
+612,COSTA,Chai Latte Regular,drinks
+613,TESCO,CHICKEN THIGHS,groceries
+614,ALDI,TUNA IN BRINE 145G,groceries
+615,TESCO,CC Hand wash,personal hygiene
+616,tesco,BUNTING 5METRE,homeware
+617,TESCO,MINCE BEEF,groceries
+618,TESCO,YOGURT FLAKE,groceries
+619,TESCO,NUTELLA,groceries
+620,TESCO,PORK SAUSAGE,groceries
+621,TESCO,ACTIMEL 12PK,drinks
+622,Vapouriz,NORD 2 POD KIT BY SMOK / 7 COLOUR COBRA,nicotine
+623,WAITROSE & PARTNERS,Fruit 2 For £4,groceries
+624,TESCO,BRIOCHE,groceries
+625,Sushi Jun,Service Charge,eating out
+626,LiDL,DC NAS App B Curran,drinks
+627,ALDI,SALT TABLE 750G,groceries
+628,TESCO,CC Potato shapes,groceries
+629,tesco,SOFT DRINK,drinks
+630,LiDL,Green Tea Pomegranat,drinks
+631,TESCO,BACON,groceries
+632,WHLUNG SUPERMARKET,FYN RINGENT CHESTNUT 270G,snacks
+633,TESCO,TWIN SWEETCORN,groceries
+634,TESCO,GINGER CAKE,snacks
+635,TACO BELL,Guacamole Sgl Shot,eating out
+636,lidl,Spring Onions,groceries
+637,TESCO,ORANGE JELLY,snacks
+638,TESCO,Feast Chocolate Ice Cream 4 x 90ml,snacks
+639,ALDI,TUNA IN BRINE 145G,groceries
+640,TESCO,BLACK PUDDING,groceries
+641,Poundland,KODAK ZINC AA 10PK,electrical
+642,TESCO,CC Frozen pizza,groceries
+643,WAITROSE & PARTNERS,WR SALMN TAIL FILLTS,groceries
+644,TESCO,SEASONAL VEG,groceries
+645,TESCO,RED LEICESTER,groceries
+646,TESCO,POTATOES,groceries
+647,TESCO,CC Latte drink,drinks
+648,TESCO,BERLINKI,groceries
+649,TESCO,CARTRIDGES,electrical
+650,Uber Eats,mango cheesecake mochi,eating out
+651,TESCO,F/RANGE EGGS,groceries
+652,Sainsbury's,"LEEK, CHEDDAR & ONIO",groceries
+653,T4,- White Pe,drinks
+654,www.itsu.com,chicken low,eating out
+655,TESCO,PORK SAUSAGE,groceries
+656,LiDL,Beef Brisket Joint,groceries

@@ -1,0 +1,26 @@
+{
+  "id": "0030",
+  "date": "2022-02-24",
+  "storeName": "TEA TERRACE",
+  "itemList": [
+    {
+      "itemName": "Smoked Salmon Salad",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 14.50
+    },
+    {
+      "itemName": "Cream Tea For 2",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 19.25
+    },
+    {
+      "itemName": "Optional Gratuity 10% 10",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 3.38
+    }
+  ],
+  "discountList": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "0044",
+  "date": "2022-03-26",
+  "storeName": "Poundland",
+  "itemList": [
+    {
+      "itemName": "MAGNETIC CAR PHONE HOLDER",
+      "quantity": 1,
+      "category": "other",
+      "price": 1.00
+    },
+    {
+      "itemName": "KODAK ZINC AA 10PK",
+      "quantity": 1,
+      "category": "electrical",
+      "price": 1.00
+    }
+  ],
+  "discountList": []
+}

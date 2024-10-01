@@ -1,0 +1,27 @@
+{
+  "id": "0038",
+  "date": "2022-04-02",
+  "storeName": "www.itsu.com",
+  "itemList": [
+    {
+      "itemName": "chicken low",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 6.99
+    },
+    {
+      "itemName": "detox miso noodle soup",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 3.49
+    },
+    {
+      "itemName": "extra egg",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 1.00
+    }
+  ],
+  "discountList": [
+  ]
+}

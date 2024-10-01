@@ -1,0 +1,81 @@
+{
+  "id": "0024",
+  "date": "2021-12-10",
+  "storeName": "lidl",
+  "itemList": [
+    {
+      "itemName": "White Toastie",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.49
+    },
+    {
+      "itemName": "Green Tee Honey",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "AriZona Iced Tea",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "Green Tee Pomegrana",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "Tomato Passata",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.89
+    },
+    {
+      "itemName": "Green Tee Peach",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "Spring Onions",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.49
+    },
+    {
+      "itemName": "Beef Brisket Joint",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 6.75
+    },
+    {
+      "itemName": "Pak Choi 2Pk",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.99
+    },
+    {
+      "itemName": "Echalion Shallots",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.83
+    },
+    {
+      "itemName": "Loose Baking Potat.",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.17
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "DISCOUNT 30%",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.15
+    }
+  ]
+}

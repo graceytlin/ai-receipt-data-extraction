@@ -1,0 +1,14 @@
+{
+  "id": "0048",
+  "date": "2022-04-02",
+  "storeName": "www.itsu.com",
+  "itemList": [
+    {
+      "itemName": "salmon baby rolls",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 4.99
+    }
+  ],
+  "discountList": []
+}

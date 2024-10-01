@@ -1,0 +1,171 @@
+{
+  "id": "0006",
+  "date": "2021-10-21",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "SESAME BAGELS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.60
+    },
+    {
+      "itemName": "YOGURT FLAKE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "OPTIONS DRINK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.00
+    },
+    {
+      "itemName": "MULTIPACK CRSP",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.25
+    },
+    {
+      "itemName": "ACTIMEL 12PK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.75
+    },
+    {
+      "itemName": "CEREAL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.00
+    },
+    {
+      "itemName": "LATTE DRINK",
+      "quantity": 4,
+      "category": "drinks",
+      "price": 6.80
+    },
+    {
+      "itemName": "LEMONADE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "PEPSI COLA",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 2.00
+    },
+    {
+      "itemName": "BACON RASHERS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.50
+    },
+    {
+      "itemName": "RED LEICESTER",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 3.50
+    },
+    {
+      "itemName": "BRIOCHE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "RIPE BANANAS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "HAND WASH",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 1.35
+    },
+    {
+      "itemName": "F/RANGE EGGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.05
+    },
+    {
+      "itemName": "HAND WASH",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 3.00
+    },
+    {
+      "itemName": "YAKULT DRINK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.00
+    },
+    {
+      "itemName": "TOOTHBRUSH",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 1.89
+    },
+    {
+      "itemName": "LURPAK BUTTER",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.80
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "CC Latte drink",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Latte drink",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Latte drink",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Latte drink",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Hand wash",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Hand wash",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Options drink",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -1.00
+    },
+    {
+      "itemName": "CC CHEDDAR 2 FOR u3",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.50
+    }
+  ]
+}

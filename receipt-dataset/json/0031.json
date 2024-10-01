@@ -1,0 +1,27 @@
+{
+  "id": "0031",
+  "date": "2022-02-24",
+  "storeName": "evapo",
+  "itemList": [
+    {
+      "itemName": "*Smok RPM  Coil 0.4",
+      "quantity": 1,
+      "category": "nicotine",
+      "price": 14.95
+    },
+    {
+      "itemName": "Nasty Juice NS Cushman 20mg",
+      "quantity": 1,
+      "category": "nicotine",
+      "price": 4.99
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "Coil Multi Buy 5 for 4.",
+      "quantity": 1,
+      "category": "nicotine",
+      "price": -2.99
+    }
+  ]
+}

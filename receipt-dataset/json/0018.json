@@ -1,0 +1,14 @@
+{
+  "id": "0018",
+  "date": "2022-02-23",
+  "storeName": "COSTA",
+  "itemList": [
+    {
+      "itemName": "Latte Regular",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 2.45
+    }
+  ],
+  "discountList": []
+}

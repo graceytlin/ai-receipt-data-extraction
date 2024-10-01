@@ -1,0 +1,75 @@
+{
+  "id": "0009",
+  "date": "2022-02-22",
+  "storeName": "tesco",
+  "itemList": [
+    {
+      "itemName": "FRUIT GUMS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.50
+    },
+    {
+      "itemName": "SOFT DRINK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.20
+    },
+    {
+      "itemName": "CHOCOLATE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CHICKEN S/WICH",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 2.50
+    },
+    {
+      "itemName": "BUNTING 5METRE",
+      "quantity": 1,
+      "category": "homeware",
+      "price": 3.00
+    },
+    {
+      "itemName": "CRISPS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.85
+    },
+    {
+      "itemName": "CHOCOLATE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 3.00
+    },
+    {
+      "itemName": "CHOCOLATE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 3.00
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "£3 MEAL DEAL",
+      "quantity": 1,
+      "category": "eating out",
+      "price": -1.00
+    },
+    {
+      "itemName": "CC Chocolate",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -1.00
+    },
+    {
+      "itemName": "CC Chocolate",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -1.00
+    }
+  ]
+}

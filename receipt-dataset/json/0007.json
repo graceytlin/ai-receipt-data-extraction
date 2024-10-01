@@ -1,0 +1,189 @@
+{
+  "id": "0007",
+  "date": "2022-01-25",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CHINESE LEAF",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.25
+    },
+    {
+      "itemName": "PORK SLICES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.98
+    },
+    {
+      "itemName": "SALMON FILLETS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.50
+    },
+    {
+      "itemName": "PRAWNS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.75
+    },
+    {
+      "itemName": "SALMON FILLETS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.50
+    },
+    {
+      "itemName": "MILKSHAKE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "ENGLISH BUTTER",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.48
+    },
+    {
+      "itemName": "SEASONAL VEG",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.75
+    },
+    {
+      "itemName": "SEASONAL VEG",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "SEASONAL VEG",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.75
+    },
+    {
+      "itemName": "SOFT CHEESE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.49
+    },
+    {
+      "itemName": "SOFT CHEESE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.49
+    },
+    {
+      "itemName": "JUICE DRINK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.20
+    },
+    {
+      "itemName": "JUICE DRINK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.20
+    },
+    {
+      "itemName": "TWIN SWEETCORN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.95
+    },
+    {
+      "itemName": "TWIN SWEETCORN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.95
+    },
+    {
+      "itemName": "PORK SAUSAGE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.25
+    },
+    {
+      "itemName": "ROAST CHICKEN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 5.10
+    },
+    {
+      "itemName": "OKRA",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.60
+    },
+    {
+      "itemName": "CHILLI CHEESE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "CHICKEN THIGHS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "F/RANGE EGGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.75
+    },
+    {
+      "itemName": "CHICKEN THIGHS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.75
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "CC Prawns",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.75
+    },
+    {
+      "itemName": "CC Milkshake",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -0.45
+    },
+    {
+      "itemName": "CC VEGETABLES 3 FOR 2 C/F",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -1.75
+    }
+  ]
+}

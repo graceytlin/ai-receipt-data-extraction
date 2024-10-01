@@ -1,0 +1,333 @@
+{
+  "id": "0010",
+  "date": "2022-02-07",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "EGGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.75
+    },
+    {
+      "itemName": "GATEAU BAR",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.00
+    },
+    {
+      "itemName": "KITKAT CHUNKY",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.99
+    },
+    {
+      "itemName": "KIPLING",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.85
+    },
+    {
+      "itemName": "CHOCOLATE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.99
+    },
+    {
+      "itemName": "F/RANGE EGGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.10
+    },
+    {
+      "itemName": "PARSLEY",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.65
+    },
+    {
+      "itemName": "FRESH MILK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.60
+    },
+    {
+      "itemName": "SPICES/HERBS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.70
+    },
+    {
+      "itemName": "4 CROISSANTS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.95
+    },
+    {
+      "itemName": "SAUSAGE SLICES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.70
+    },
+    {
+      "itemName": "CHICKEN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.15
+    },
+    {
+      "itemName": "BUTTERNUT SOUP",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.50
+    },
+    {
+      "itemName": "CHOCOLATE CAKE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.75
+    },
+    {
+      "itemName": "CAKE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.75
+    },
+    {
+      "itemName": "BURGER BUNS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.20
+    },
+    {
+      "itemName": "SMOKED STREAKY",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "BACON RASHERS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.55
+    },
+    {
+      "itemName": "CHOC ECLAIRS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.80
+    },
+    {
+      "itemName": "PAIN AU RAISIN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.30
+    },
+    {
+      "itemName": "KM WHITE MED",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "BLACK PUDDING",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "HADDOCK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.00
+    },
+    {
+      "itemName": "PLATTER",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.60
+    },
+    {
+      "itemName": "MOZZARELLA",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.43
+    },
+    {
+      "itemName": "CONTI MEAT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.60
+    },
+    {
+      "itemName": "MINCE BEEF",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.79
+    },
+    {
+      "itemName": "WHOLEMEAL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.36
+    },
+    {
+      "itemName": "GEM LETTUCE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "ONIONS 1KG",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "CREME CARAMEL",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.10
+    },
+    {
+      "itemName": "YAKULT DRINK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.25
+    },
+    {
+      "itemName": "GINGER NUTS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.29
+    },
+    {
+      "itemName": "CEREAL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.00
+    },
+    {
+      "itemName": "SALAD TOMATOES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.75
+    },
+    {
+      "itemName": "KABANOS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "AUBERGINE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "GINGER NUTS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.29
+    },
+    {
+      "itemName": "POTATOES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "CHEESE SLICE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.99
+    },
+    {
+      "itemName": "PEANUT BUTTER",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.89
+    },
+    {
+      "itemName": "BERLINKI",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.30
+    },
+    {
+      "itemName": "BERLINKI",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.30
+    },
+    {
+      "itemName": "PORK SLICES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.14
+    },
+    {
+      "itemName": "BBQ SAUCE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "FRESH MILK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.35
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "CC Butternut soup",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.55
+    },
+    {
+      "itemName": "CC Berlinki",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.30
+    },
+    {
+      "itemName": "CC Berlinki",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.30
+    },
+    {
+      "itemName": "CC Slices",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -1.55
+    },
+    {
+      "itemName": "CC Cake",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -0.75
+    },
+    {
+      "itemName": "CC chocolate cake",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -0.75
+    },
+    {
+      "itemName": "CC Haddock",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.50
+    },
+    {
+      "itemName": "CC DELI SHARING 2 FOR u4",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -1.20
+    }
+  ]
+}

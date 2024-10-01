@@ -1,0 +1,38 @@
+{
+  "id": "0051",
+  "date": "2022-04-07",
+  "storeName": "Uber Eats",
+  "itemList": [
+    {
+      "itemName": "veggie dragon roll",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 6.50
+    },
+    {
+      "itemName": "salmon full house",
+      "quantity": 2,
+      "category": "eating out",
+      "price": 21.90
+    },
+    {
+      "itemName": "chicken spring onion gyoza",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 6.95
+    },
+    {
+      "itemName": "Gyoza dipping pot",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 0.00
+    },
+    {
+      "itemName": "mango cheesecake mochi",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 3.25
+    }
+  ],
+  "discountList": []
+}

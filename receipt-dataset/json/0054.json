@@ -1,0 +1,271 @@
+{
+  "id": "0054",
+  "date": "2022-03-24",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "WALKERS CRISPS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.50
+    },
+    {
+      "itemName": "OLIVE OIL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "CHOC MINI ROLLS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.00
+    },
+    {
+      "itemName": "TESCO GRLC500G",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "FROZEN PIZZA",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.75
+    },
+    {
+      "itemName": "SPAGHETTI",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.20
+    },
+    {
+      "itemName": "ECLAIRS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.35
+    },
+    {
+      "itemName": "SWEETS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.25
+    },
+    {
+      "itemName": "HAPPY HIPPO",
+      "quantity": 5,
+      "category": "snacks",
+      "price": 1.25
+    },
+    {
+      "itemName": "FROZEN PIZZA",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.75
+    },
+    {
+      "itemName": "CKN NUGGETS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "CHOC BUNNIES",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CKN NUGGETS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "MIRIN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.90
+    },
+    {
+      "itemName": "PASTRY",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.10
+    },
+    {
+      "itemName": "CRISPS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.99
+    },
+    {
+      "itemName": "W/FOOD PINE NU",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.60
+    },
+    {
+      "itemName": "KING PRAWNS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.50
+    },
+    {
+      "itemName": "FISH FINGERS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.75
+    },
+    {
+      "itemName": "STREAKY BACON",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "FRESH CHICKEN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 5.10
+    },
+    {
+      "itemName": "GREEK YOGURT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "BRIOCHE ROLLS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.60
+    },
+    {
+      "itemName": "KIPLING",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.85
+    },
+    {
+      "itemName": "WALNUTS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "HOT CHILLI",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.95
+    },
+    {
+      "itemName": "CUMIN SEEDS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "CHOC CREPES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.50
+    },
+    {
+      "itemName": "CHOCOLATE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.00
+    },
+    {
+      "itemName": "CHOC BISCUIT",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.25
+    },
+    {
+      "itemName": "SMIRNOFF ICE",
+      "quantity": 1,
+      "category": "alcohol",
+      "price": 12.00
+    },
+    {
+      "itemName": "PORK MINCE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "COCONUT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "CASHEW NUTS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "CHEESE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.50
+    },
+    {
+      "itemName": "GUMMY SWEETS",
+      "quantity": 2,
+      "category": "snacks",
+      "price": 1.78
+    }
+  ],
+  "discountList": [{
+    "itemName": "CC Frozen pizza",
+    "quantity": 1,
+    "category": "groceries",
+    "price": -1.00
+  },
+  {
+    "itemName": "CC Frozen pizza",
+    "quantity": 1,
+    "category": "groceries",
+    "price": -1.00
+  },
+  {
+    "itemName": "CC Choc mini rolls",
+    "quantity": 1,
+    "category": "snacks",
+    "price": -1.00
+  },
+  {
+    "itemName": "CC Slices",
+    "quantity": 1,
+    "category": "groceries",
+    "price": -1.43
+  },
+  {
+    "itemName": "CC Cheese",
+    "quantity": 1,
+    "category": "groceries",
+    "price": -0.50
+  },
+  {
+    "itemName": "CC Fish fingers",
+    "quantity": 1,
+    "category": "groceries",
+    "price": -0.75
+  },
+  {
+    "itemName": "CC Walkers crisps",
+    "quantity": 1,
+    "category": "snacks",
+    "price": -0.15
+  },
+  {
+    "itemName": "Smirnoff ice",
+    "quantity": 1,
+    "category": "alcohol",
+    "price": -2.00
+  }]
+}

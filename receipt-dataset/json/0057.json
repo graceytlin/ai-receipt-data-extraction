@@ -1,0 +1,50 @@
+{
+  "id": "0057",
+  "date": "2022-05-10",
+  "storeName": "Sainsbury's",
+  "itemList": [
+    {
+      "itemName": "*HARIBO TANGFASTICS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "STRBKS CAFF LAT220ML",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "STRBKS CAFF LAT220ML",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "*MALTESERS 189G",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.00
+    },
+    {
+      "itemName": "WW BERRY&WHITE CHOC",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.45
+    },
+    {
+      "itemName": "WW FRUITS BISCUIT SH",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.45
+    },
+    {
+      "itemName": "PAIN AUX RAISINS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    }
+  ],
+  "discountList": []
+}

@@ -1,0 +1,87 @@
+{
+  "id": "0004",
+  "date": "2021-05-06",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "SPRKLING WAT",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.17
+    },
+    {
+      "itemName": "BEEF MINCE REDUCED PRICE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.09
+    },
+    {
+      "itemName": "BEEF MINCE REDUCED PRICE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.09
+    },
+    {
+      "itemName": "BAKE BAG",
+      "quantity": 1,
+      "category": "homeware",
+      "price": 1.35
+    },
+    {
+      "itemName": "CHICKEN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.35
+    },
+    {
+      "itemName": "PASTA",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.65
+    },
+    {
+      "itemName": "POTATO SHAPES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.79
+    },
+    {
+      "itemName": "PASTA",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.65
+    },
+    {
+      "itemName": "GARLIC GRANU",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.60
+    },
+    {
+      "itemName": "COOKED HAM",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.59
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "CC Chicken",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Bake bag",
+      "quantity": 1,
+      "category": "homeware",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Potato shapes",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.79
+    }
+  ]
+}

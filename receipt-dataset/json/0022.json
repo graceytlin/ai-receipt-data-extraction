@@ -1,0 +1,20 @@
+{
+  "id": "0022",
+  "date": "2022-02-11",
+  "storeName": "TACO BELL",
+  "itemList": [
+    {
+      "itemName": "QUES BOX",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 7.00
+    },
+    {
+      "itemName": "Guacamole Sgl Shot",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 0.79
+    }
+  ],
+  "discountList": []
+}

@@ -1,0 +1,261 @@
+{
+  "id": "0028",
+  "date": "2022-03-01",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "CKN DRUMSTICKS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.75
+    },
+    {
+      "itemName": "ICE CREAM",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 4.80
+    },
+    {
+      "itemName": "ICE CREAM",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 4.80
+    },
+    {
+      "itemName": "TOWELS",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 0.70
+    },
+    {
+      "itemName": "TOWELS",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 0.70
+    },
+    {
+      "itemName": "TORTILLA CHIPS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.50
+    },
+    {
+      "itemName": "YOGHUTS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2.25
+    },
+    {
+      "itemName": "F/RANGE EGGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.10
+    },
+    {
+      "itemName": "BRIOCHE ROLL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.50
+    },
+    {
+      "itemName": "POTATOES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "NUTELLA",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.90
+    },
+    {
+      "itemName": "RED PEPPER",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.48
+    },
+    {
+      "itemName": "NUTS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.99
+    },
+    {
+      "itemName": "T.ZIPSEAL BAGS",
+      "quantity": 1,
+      "category": "homeware",
+      "price": 1.00
+    },
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CAFFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "COOKING SAUCE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.25
+    },
+    {
+      "itemName": "ICE CREAM",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 2
+    },
+    {
+      "itemName": "AVOCADO EACH",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.70
+    },
+    {
+      "itemName": "WAFFLES",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "SPINACH",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "REFUSE SACKS",
+      "quantity": 1,
+      "category": "cleaning & laundry",
+      "price": 2.50
+    },
+    {
+      "itemName": "CHICKEN THIGHS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.75
+    },
+    {
+      "itemName": "CHOCOLATE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CEREAL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "TOWELS",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 0.70
+    },
+    {
+      "itemName": "LITTLE GEM TWIN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "TOWELS",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 0.70
+    },
+    {
+      "itemName": "SPRING ONIONS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.37
+    },
+    {
+      "itemName": "TWIN SWEETCORN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.19
+    },
+    {
+      "itemName": "CAFE LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.00
+    },
+    {
+      "itemName": "KITCHEN TOWELS",
+      "quantity": 1,
+      "category": "cleaning & laundry",
+      "price": 6.00
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "CC Nutella",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.90
+    },
+    {
+      "itemName": "CC Tortilla chips",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -1.25
+    },
+    {
+      "itemName": "CC Nuts",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -0.99
+    },
+    {
+      "itemName": "CC Kitchen towels",
+      "quantity": 1,
+      "category": "cleaning & laundry",
+      "price": -1.00
+    },
+    {
+      "itemName": "CC Ice cream",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -1.80
+    },
+    {
+      "itemName": "CC Ice cream",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -1.80
+    },
+    {
+      "itemName": "CC Ice cream",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -0.50
+    },
+    {
+      "itemName": "CC Pitch",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.50
+    },
+    {
+      "itemName": "CC Chicken sauce",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.25
+    },
+    {
+      "itemName": "CC Potatoes",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.41
+    }
+  ]
+}

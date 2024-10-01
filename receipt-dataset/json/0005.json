@@ -1,0 +1,75 @@
+{
+  "id": "0005",
+  "date": "2021-11-08",
+  "storeName": "WAITROSE & PARTNERS",
+  "itemList": [
+    {
+      "itemName": "TANGERINES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "TANGERINES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "WR AA SIRLOIN STEAK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.50
+    },
+    {
+      "itemName": "WR SALMN TAIL FILLTS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.25
+    },
+    {
+      "itemName": "WR 2 RUMP BURGERS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.25
+    },
+    {
+      "itemName": "WR 2 RUMP BURGERS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.25
+    },
+    {
+      "itemName": "WR ESS CHICK DRMSTKS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.00
+    },
+    {
+      "itemName": "WAKAME SALAD",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.80
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "Burgers 2 for £7.50",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -1.00
+    },
+    {
+      "itemName": "2 for £4 2 for £4",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -1.00
+    },
+    {
+      "itemName": "MPF 3 for £10",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -2.75
+    }
+  ]
+}

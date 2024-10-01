@@ -1,0 +1,14 @@
+{
+  "id": "0042",
+  "date": "2022-03-26",
+  "storeName": "Co-op",
+  "itemList": [
+    {
+      "itemName": "CP MAYONNAISE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.40
+    }
+  ],
+  "discountList": []
+}

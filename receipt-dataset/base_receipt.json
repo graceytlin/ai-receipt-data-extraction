@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "date": "",
+  "storeName": "",
+  "itemList": [
+    {
+      "itemName": "",
+      "quantity": 1,
+      "category": "",
+      "price": 0
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "",
+      "quantity": 1,
+      "category": "",
+      "price": -0
+    }
+  ]
+}
+

@@ -1,0 +1,44 @@
+{
+  "id": "0050",
+  "date": "2022-03-26",
+  "storeName": "Sushi Jun",
+  "itemList": [
+    {
+      "itemName": "Bubble Tea",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.95
+    },
+    {
+      "itemName": "SEARD SALMON ROLL",
+      "quantity": 2,
+      "category": "eating out",
+      "price": 17.80
+    },
+    {
+      "itemName": "UNAGI&CUCUMBER ROLL",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 7.90
+    },
+    {
+      "itemName": "CALIFORNIA ROLL",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 6.50
+    },
+    {
+      "itemName": "Vegetable GYOZA",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 6.30
+    },
+    {
+      "itemName": "Service Charge",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 4.25
+    }
+  ],
+  "discountList": []
+}

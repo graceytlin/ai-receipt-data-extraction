@@ -1,0 +1,32 @@
+{
+  "id": "0058",
+  "date": "2022-03-19",
+  "storeName": "T.K.maxx",
+  "itemList": [
+    {
+      "itemName": "MENS ESSENTIALS",
+      "quantity": 1,
+      "category": "clothes & accessories",
+      "price": 8.99
+    },
+    {
+      "itemName": "TK MEDIUM CARRIER",
+      "quantity": 1,
+      "category": "other",
+      "price": 0.20
+    },
+    {
+      "itemName": "MENS JERSEY",
+      "quantity": 1,
+      "category": "clothes & accessories",
+      "price": 12.99
+    },
+    {
+      "itemName": "MENS BEST BRANDS",
+      "quantity": 1,
+      "category": "clothes & accessories",
+      "price": 19.99
+    }
+  ],
+  "discountList": []
+}

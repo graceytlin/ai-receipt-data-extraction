@@ -1,0 +1,26 @@
+{
+  "id": "0026",
+  "date": "2022-02-24",
+  "storeName": "Greggs",
+  "itemList": [
+    {
+      "itemName": "Sausage Roll",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 1.05
+    },
+    {
+      "itemName": "Chicken Bake",
+      "quantity": 1,
+      "category": "eating out",
+      "price": 1.65
+    },
+    {
+      "itemName": "Handled Paper Bag",
+      "quantity": 1,
+      "category": "homeware",
+      "price": 0.05
+    }
+  ],
+  "discountList": []
+}

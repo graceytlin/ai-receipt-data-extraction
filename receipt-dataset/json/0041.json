@@ -1,0 +1,14 @@
+{
+  "id": "0041",
+  "date": "2022-04-07",
+  "storeName": "COSTA",
+  "itemList": [
+    {
+      "itemName": "Chai Latte Regular",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.00
+    }
+  ],
+  "discountList": []
+}

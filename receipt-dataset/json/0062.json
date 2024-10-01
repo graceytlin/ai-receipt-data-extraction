@@ -1,0 +1,20 @@
+{
+  "id": "0062",
+  "date": "2022-03-07",
+  "storeName": "B&M",
+  "itemList": [
+    {
+      "itemName": "DETTOL 500ML/AIO LINEN",
+      "quantity": 3,
+      "category": "cleaning & laundry",
+      "price": 8.97
+    },
+    {
+      "itemName": "SMALL MAGIC MAT/PLAIN",
+      "quantity": 1,
+      "category": "homeware",
+      "price": 3.99
+    }
+  ],
+  "discountList": []
+}

@@ -1,0 +1,200 @@
+{
+  "id": "0027",
+  "date": "2022-03-16",
+  "storeName": "LiDL",
+  "itemList": [
+    {
+      "itemName": "Beef Brisket Joint",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 6.14
+    },
+    {
+      "itemName": "Medium Avocado",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "Green Tea Plum",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "Green Tea honey",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "Green Tea Pomegranat",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "Green Tea Blueberry",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "Green Peach",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "Washed Baby Spinach",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.75
+    },
+    {
+      "itemName": "Sweet Mixed Peppers",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.49
+    },
+    {
+      "itemName": "Garlic",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.49
+    },
+    {
+      "itemName": "Mentos Chupa Babol",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.99
+    },
+    {
+      "itemName": "Frijj Cookie Dough",
+      "quantity": 4,
+      "category": "drinks",
+      "price": 3.00
+    },
+    {
+      "itemName": "MarbleBriocheVanilla",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.69
+    },
+    {
+      "itemName": "Tenderstem Broccoli",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.53
+    },
+    {
+      "itemName": "Chicken Thigh Fillet",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.39
+    },
+    {
+      "itemName": "Alexandra Potatoes",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.89
+    },
+    {
+      "itemName": "Valentina Tomatoes",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.39
+    },
+    {
+      "itemName": "Organic Vine Tomato",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.79
+    },
+    {
+      "itemName": "Cucumber",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.43
+    },
+    {
+      "itemName": "Danone Actimel Straw",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 2.25
+    },
+    {
+      "itemName": "Bells Ibuprofen 200m",
+      "quantity": 1,
+      "category": "health & pharmacy",
+      "price": 0.39
+    },
+    {
+      "itemName": "Lamb Loin Chops",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 7.98
+    },
+    {
+      "itemName": "Frylight Coconut Oil",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.79
+    },
+    {
+      "itemName": "Peperami Jerky",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.99
+    },
+    {
+      "itemName": "Smoked Salmon",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.79
+    },
+    {
+      "itemName": "Organic Carrots",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "Fresh Corn",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.19
+    },
+    {
+      "itemName": "Paracetamol Caplets",
+      "quantity": 4,
+      "category": "health & pharmacy",
+      "price": 0.29
+    },
+    {
+      "itemName": "Pomegranate",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.78
+    },
+    {
+      "itemName": "Mango",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "MSC Wild Salmon",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.39
+    },
+    {
+      "itemName": "Maple and PecanPlait",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.49
+    }
+  ],
+  "discountList": []
+}

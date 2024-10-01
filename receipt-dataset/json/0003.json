@@ -1,0 +1,20 @@
+{
+  "id": "0003",
+  "date": "2022-02-22",
+  "storeName": "Simply Fresh",
+  "itemList": [
+    {
+      "itemName": "STRAWBERRY TWISTS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "NEW REGULAR LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 2.45
+    }
+  ],
+  "discountList": []
+}

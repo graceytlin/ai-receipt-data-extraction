@@ -1,0 +1,279 @@
+{
+  "id": "0019",
+  "date": "2022-02-16",
+  "storeName": "TESCO",
+  "itemList": [
+    {
+      "itemName": "SLICED BLOOM",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "BROWN SUGAR",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.30
+    },
+    {
+      "itemName": "HONEY",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "JALFREZI SAUCE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.25
+    },
+    {
+      "itemName": "ICE CREAM",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 4.50
+    },
+    {
+      "itemName": "YOGURT",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.50
+    },
+    {
+      "itemName": "CHOCOLATE",
+      "quantity": 2,
+      "category": "snacks",
+      "price": 2.00
+    },
+    {
+      "itemName": "MINI EGGS BAR",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "FRUIT JUICE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 0.99
+    },
+    {
+      "itemName": "CLEMENTINE",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "RIPE BANANAS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    },
+    {
+      "itemName": "F/RANGE EGGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.75
+    },
+    {
+      "itemName": "BREAD",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.59
+    },
+    {
+      "itemName": "EGGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.18
+    },
+    {
+      "itemName": "GINGER CAKE",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.35
+    },
+    {
+      "itemName": "CHEDDAR",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.79
+    },
+    {
+      "itemName": "FRUIT JUICE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.00
+    },
+    {
+      "itemName": "RED LEICESTER",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.79
+    },
+    {
+      "itemName": "SMOKED SALMON",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    },
+    {
+      "itemName": "CONDITIONER",
+      "quantity": 1,
+      "category": "personal hygiene",
+      "price": 6.00
+    },
+    {
+      "itemName": "RED PEPPER",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.45
+    },
+    {
+      "itemName": "BLACK PUDDING",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "UNSALT BUTTER",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.55
+    },
+    {
+      "itemName": "GOLDEN SYRUP",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.35
+    },
+    {
+      "itemName": "COFFEE BEANS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.50
+    },
+    {
+      "itemName": "T RIPE AVO PK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.50
+    },
+    {
+      "itemName": "PORK SAUSAGES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.70
+    },
+    {
+      "itemName": "SUGAR",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.65
+    },
+    {
+      "itemName": "CHICKEN THIGHS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.75
+    },
+    {
+      "itemName": "ICE CREAM",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 4.50
+    },
+    {
+      "itemName": "8 CUP",
+      "quantity": 1,
+      "category": "homeware",
+      "price": 10.00
+    },
+    {
+      "itemName": "BISCUITS",
+      "quantity": 2,
+      "category": "snacks",
+      "price": 0.58
+    },
+    {
+      "itemName": "UNSALT BUTTER",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.55
+    },
+    {
+      "itemName": "GUM",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.60
+    },
+    {
+      "itemName": "LYCHEE DRINK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.70
+    },
+    {
+      "itemName": "LYCHEE DRINK",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.70
+    },
+    {
+      "itemName": "FRSH DBL CRM",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.15
+    },
+    {
+      "itemName": "HONEY",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.69
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "CC Fruit juice",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -1.00
+    },
+    {
+      "itemName": "CC Golden syrup",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -0.35
+    },
+    {
+      "itemName": "CC Ice cream",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -1.50
+    },
+    {
+      "itemName": "CC Ice cream",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -1.50
+    },
+    {
+      "itemName": "CC Lychee drink",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -0.20
+    },
+    {
+      "itemName": "CC Lychee drink",
+      "quantity": 1,
+      "category": "drinks",
+      "price": -0.20
+    },
+    {
+      "itemName": "CC Jalfrezi sauce",
+      "quantity": 1,
+      "category": "snacks",
+      "price": -0.25
+    }
+  ]
+}

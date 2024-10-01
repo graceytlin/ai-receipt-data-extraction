@@ -1,0 +1,69 @@
+{
+  "id": "0055",
+  "date": "2022-05-10",
+  "storeName": "Sainsbury's",
+  "itemList": [
+    {
+      "itemName": "*WALKERS MAX 50G",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.90
+    },
+    {
+      "itemName": "*MONSTER PIPELINE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 1.35
+    },
+    {
+      "itemName": "BLT SW",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.55
+    },
+    {
+      "itemName": "JS DBLE CHC COOKIES",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "CHEESE TWIST",
+      "quantity": 2,
+      "category": "groceries",
+      "price": 1.80
+    },
+    {
+      "itemName": "CHOCOLATE TWIST",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "PIZZA SWIRL",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.90
+    },
+    {
+      "itemName": "LEEK, CHEDDAR & ONIO",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.90
+    },
+    {
+      "itemName": "DANISH MAPLE PECAN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    }
+  ],
+  "discountList": [
+    {
+    "itemName": "Meal Deal",
+    "quantity": 1,
+    "category": "groceries",
+    "price": -1.30
+    }
+  ]
+}

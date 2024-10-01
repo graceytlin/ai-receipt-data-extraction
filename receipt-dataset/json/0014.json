@@ -1,0 +1,99 @@
+{
+  "id": "0014",
+  "date": "2021-07-05",
+  "storeName": "WAITROSE & PARTNERS",
+  "itemList": [
+    {
+      "itemName": "WR B/CHICKEN WINGS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.00
+    },
+    {
+      "itemName": "WR ESS THIGH FILLETS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.61
+    },
+    {
+      "itemName": "WR ESS BEEF BURGERS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.06
+    },
+    {
+      "itemName": "WR BEEF FRYING STEAK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 4.50
+    },
+    {
+      "itemName": "WR SEA BREAM FILLETS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 5.50
+    },
+    {
+      "itemName": "WR SALMN TAIL FILLTS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 5.00
+    },
+    {
+      "itemName": "V CKITTENS ETON MESS",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 1.00
+    },
+    {
+      "itemName": "WR CHICK JAMB SOUP",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "TANGERINES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 1.66
+    },
+    {
+      "itemName": "V TWIX TWIN BAR",
+      "quantity": 1,
+      "category": "snacks",
+      "price": 0.60
+    },
+    {
+      "itemName": "WR ESS HOT CROSS BUN",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 0.85
+    },
+    {
+      "itemName": "GRESS SPATCHCOCK",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 3.09
+    },
+    {
+      "itemName": "WR BLUEBS",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.50
+    },
+    {
+      "itemName": "CC BELGN BTTR WFFLES",
+      "quantity": 1,
+      "category": "groceries",
+      "price": 2.00
+    }
+  ],
+  "discountList": [
+    {
+      "itemName": "MPFE 3 For £10",
+      "quantity": 1,
+      "category": "groceries",
+      "price": -5.00
+    }
+  ]
+}

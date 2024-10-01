@@ -1,0 +1,38 @@
+{
+  "id": "0060",
+  "date": "2022-04-11",
+  "storeName": "UNIQLO",
+  "itemList": [
+    {
+      "itemName": "W's rayon blouse",
+      "quantity": 1,
+      "category": "clothes & accesories",
+      "price": 24.90
+    },
+    {
+      "itemName": "W's tapered trousers",
+      "quantity": 1,
+      "category": "clothes & accesories",
+      "price": 34.90
+    },
+    {
+      "itemName": "W's rayon blouse",
+      "quantity": 1,
+      "category": "clothes & accesories",
+      "price": 24.90
+    },
+    {
+      "itemName": "W's rayon blouse",
+      "quantity": 1,
+      "category": "clothes & accesories",
+      "price": 24.90
+    },
+    {
+      "itemName": "W's tapered trousers",
+      "quantity": 1,
+      "category": "clothes & accesories",
+      "price": 34.90
+    }
+  ],
+  "discountList": []
+}

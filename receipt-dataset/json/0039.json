@@ -1,0 +1,15 @@
+{
+  "id": "0039",
+  "date": "2022-04-07",
+  "storeName": "Simply Fresh",
+  "itemList": [
+    {
+      "itemName": "NEW REGULAR CHAI LATTE",
+      "quantity": 1,
+      "category": "drinks",
+      "price": 3.00
+    }
+  ],
+  "discountList": [
+  ]
+}
